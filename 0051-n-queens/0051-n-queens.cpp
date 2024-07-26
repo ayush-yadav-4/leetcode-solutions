@@ -9,12 +9,12 @@ public:
              board[i].push_back('.');
           }
           }
-        vector<int>col(n,0);
-        helper(ans,board,0,n,col);
+        
+        helper(ans,board,0,n);
         return ans;
     }
 
-    void helper( vector<vector<string>> & ans,vector<string>&board , int row,int n,vector<int>&col){
+    void helper( vector<vector<string>> & ans,vector<string>&board , int row,int n){
       
       if(row == n ){
          ans.push_back(board);
@@ -22,11 +22,11 @@ public:
       }
 
       for(int j =0; j <n ; j++){
-         if( col[j] == 0 &&isSafe(board,row,j,n) ){
-            col[j] == 1;
+         if(isSafe(board,row,j,n) ){
+           
             board[row][j] = 'Q';
-            helper(ans,board,row+1,n,col);
-            col[j] =0;
+            helper(ans,board,row+1,n);
+           
             board[row][j] = '.';
          }
       }
