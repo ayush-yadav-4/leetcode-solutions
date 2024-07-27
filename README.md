@@ -22,8 +22,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
