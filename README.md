@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0051-n-queens) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
