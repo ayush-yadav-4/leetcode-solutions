@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-koko-eating-bananas](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
