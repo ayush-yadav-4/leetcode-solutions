@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
