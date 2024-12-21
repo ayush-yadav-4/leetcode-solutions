@@ -5,10 +5,11 @@ public:
 
        for(int i =0 ; i <=nums.size(); i++){
           sum1 += i;
+          if(i < nums.size()){
+            sum2 += nums[i];
+          }
        }
-       for(int i =0 ; i <nums.size(); i++){
-          sum2 += nums[i];
-       }
+    
        return sum1-sum2;
     }
 };
