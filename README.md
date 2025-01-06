@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
+| [2737-row-with-maximum-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
+| [2737-row-with-maximum-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
