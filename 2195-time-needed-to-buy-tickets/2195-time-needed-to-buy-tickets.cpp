@@ -8,15 +8,11 @@ public:
 
         while(!q.empty()){
            
-            elem = q.front();
-            tickets[elem] = tickets[elem]-1;
-           
+            tickets[q.front()]--;
             if(tickets[k] == 0) return ans;
-            if(tickets[elem] == 0) q.pop();
-            else{
-                q.push(elem);
-                q.pop();
-            }
+            if(tickets[q.front()] != 0) q.push(q.front());
+        
+              q.pop();
               ans++;
         }
         return ans;
