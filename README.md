@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
