@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
