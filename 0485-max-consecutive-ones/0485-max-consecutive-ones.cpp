@@ -8,18 +8,13 @@ public:
                 count++;
             }
             if(nums[i] == 0){
-                if(maxcount <= count){
-                    maxcount = count;
-                    count=0;
-                }
-                else{
+                  maxcount = max(maxcount,count);
                     count =0;
-                }
+                
             }
-            if(i == nums.size()-1 && count > maxcount){
-                maxcount = count;
-            }
+           
         }
+        maxcount = max(maxcount,count);
 
         return maxcount;
     }
