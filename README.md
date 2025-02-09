@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1970-sorting-the-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1970-sorting-the-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
