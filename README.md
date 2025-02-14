@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0874-backspace-string-compare) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0137-single-number-ii) |
