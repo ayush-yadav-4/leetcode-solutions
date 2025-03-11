@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1970-sorting-the-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Rolling Hash
 |  |
 | ------- |
