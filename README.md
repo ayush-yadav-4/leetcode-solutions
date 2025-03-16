@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2690-house-robber-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [2737-row-with-maximum-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
+| [3194-find-words-containing-character](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2580-circular-sentence) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3684-substring-matching-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-substring-matching-pattern) |
 ## Simulation
 |  |
