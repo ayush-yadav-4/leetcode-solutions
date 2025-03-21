@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2690-house-robber-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2690-house-robber-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2737-row-with-maximum-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
 | [3194-find-words-containing-character](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
