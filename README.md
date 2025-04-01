@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -811,4 +814,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
