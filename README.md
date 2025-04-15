@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0415-add-strings) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
@@ -863,4 +865,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
