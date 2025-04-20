@@ -7,14 +7,15 @@ public:
 
         q.push({1,{0,0}});
         dist[0][0] = 1;
+         int row[] = {0,0,-1,+1,-1,+1,-1,+1};
+          int col[] = {-1,+1,0,0,-1,+1,+1,-1};
         while(!q.empty()){
           int wt = q.front().first;
           int r = q.front().second.first;
           int c = q.front().second.second;
           q.pop();
 
-          int row[] = {0,0,-1,+1,-1,+1,-1,+1};
-          int col[] = {-1,+1,0,0,-1,+1,+1,-1};
+         
           
           for(int i=0;i<8;i++){
             int nrow = r + row[i];
