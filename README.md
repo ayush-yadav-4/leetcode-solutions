@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1508-longest-happy-prefix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1508-longest-happy-prefix) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Union Find
 |  |
