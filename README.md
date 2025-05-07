@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0415-add-strings) |
+| [0483-smallest-good-base](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0483-smallest-good-base) |
 | [0539-minimum-time-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0483-smallest-good-base](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0483-smallest-good-base) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0792-binary-search) |
