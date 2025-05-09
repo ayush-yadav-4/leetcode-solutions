@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
