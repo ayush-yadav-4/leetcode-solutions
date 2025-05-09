@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0504-base-7) |
+| [0537-complex-number-multiplication](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0735-asteroid-collision) |
