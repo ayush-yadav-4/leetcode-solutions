@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0313-super-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
