@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0738-monotone-increasing-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0738-monotone-increasing-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0890-lemonade-change](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
