@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0738-monotone-increasing-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
