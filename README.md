@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0202-happy-number) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -948,4 +951,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
