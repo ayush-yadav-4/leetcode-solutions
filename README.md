@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0587-erect-the-fence) |
+| [0640-solve-the-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0640-solve-the-equation) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0738-monotone-increasing-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0640-solve-the-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0686-repeated-string-match) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
+| [0640-solve-the-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0735-asteroid-collision) |
