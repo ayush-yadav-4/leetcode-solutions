@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0792-binary-search) |
+| [0798-transform-to-chessboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 | [0816-design-hashset](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0859-design-circular-deque](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0859-design-circular-deque) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0679-24-game) |
 | [0738-monotone-increasing-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0798-transform-to-chessboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0856-consecutive-numbers-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0856-consecutive-numbers-sum) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0798-transform-to-chessboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1610-xor-operation-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0798-transform-to-chessboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 | [1036-rotting-oranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
