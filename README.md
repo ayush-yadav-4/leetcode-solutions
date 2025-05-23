@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0927-sum-of-subsequence-widths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0927-sum-of-subsequence-widths) |
 | [0935-orderly-queue](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
 | [1012-equal-rational-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1012-equal-rational-numbers) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [0923-super-egg-drop](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -986,11 +989,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 ## Number Theory
 |  |
 | ------- |
@@ -1019,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
+| [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 ## Bitmask
 |  |
 | ------- |
