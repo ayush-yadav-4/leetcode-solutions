@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1603-running-sum-of-1d-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1791-richest-customer-wealth](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1500-count-largest-group](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1522-stone-game-iii) |
+| [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1610-xor-operation-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0587-erect-the-fence) |
+| [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Combinatorics
 |  |
 | ------- |
