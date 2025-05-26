@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1603-running-sum-of-1d-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1791-richest-customer-wealth](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1610-xor-operation-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -630,12 +632,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1522-stone-game-iii) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Memoization
 |  |
 | ------- |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
 |  |
 | ------- |
@@ -685,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -914,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -954,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -974,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1027,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brainteaser
 |  |
 | ------- |
