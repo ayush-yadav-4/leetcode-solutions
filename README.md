@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0458-poor-pigs) |
@@ -1056,4 +1058,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
