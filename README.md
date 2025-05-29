@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1571-allocate-mailboxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1571-allocate-mailboxes) |
 | [1603-running-sum-of-1d-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1571-allocate-mailboxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1571-allocate-mailboxes) |
 | [1610-xor-operation-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1617-stone-game-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1617-stone-game-iv) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1571-allocate-mailboxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1571-allocate-mailboxes) |
 | [1970-sorting-the-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1522-stone-game-iii) |
+| [1571-allocate-mailboxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1571-allocate-mailboxes) |
 | [1617-stone-game-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1617-stone-game-iv) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
