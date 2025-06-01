@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0927-sum-of-subsequence-widths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0927-sum-of-subsequence-widths) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0963-three-equal-parts](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
+| [0963-three-equal-parts](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0963-three-equal-parts) |
 | [1012-equal-rational-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1012-equal-rational-numbers) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1057-numbers-with-repeated-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1057-numbers-with-repeated-digits) |
