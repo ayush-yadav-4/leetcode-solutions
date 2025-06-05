@@ -1,17 +1,16 @@
 class Solution {
 public:
-bool Valid(vector<int>& nums, int threshold,int mid){
-     int ans =0;
-    for(int i=0;i<nums.size();i++){
-       if(nums[i]%mid == 0){
-        ans += nums[i]/mid;
-       }else{
-        ans += (nums[i]/mid)+1;
-       }
-    }
-    if(ans<=threshold) return true;
-
-    return false;
+bool Valid(vector<int>& nums, int th ,int mid){
+    long long ans=0;
+     for(int i=0;i<nums.size();i++){
+        if(nums[i]%mid == 0){
+           ans += nums[i]/mid;
+        }
+        else if(nums[i]%mid != 0) ans += (nums[i]/mid) + 1;
+       
+       if(ans>th) return false;
+     }
+     return true;
 }
     int smallestDivisor(vector<int>& nums, int threshold) {
         
