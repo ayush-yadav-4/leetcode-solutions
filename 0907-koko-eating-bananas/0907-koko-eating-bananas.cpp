@@ -12,11 +12,11 @@ bool check(vector<int>& piles, int h,int mid){
          return true;
 }
     int minEatingSpeed(vector<int>& piles, int h) {
-         long long int st = 1,end=0,ans=0,mid=0,sum=0;
+          int st = 1,end=0,ans=0,mid=0;
          for(int i=0;i<piles.size();i++){
-           sum += piles[i];          
+           end = max(end, piles[i]);          
          }
-         end = sum;
+         
          while(st<=end){
             mid = st + (end-st)/2;
             if(check(piles,h,mid)){
