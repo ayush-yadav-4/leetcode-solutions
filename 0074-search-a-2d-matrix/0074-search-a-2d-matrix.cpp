@@ -25,11 +25,11 @@ public:
          int n = matrix[0].size()-1;
         while(start<=end){
            mid = start + (end - start)/2;
-            if(target == matrix[mid][0] || target == matrix[mid][n]){
-               return true;
-            }
+            // if(target == matrix[mid][0] || target == matrix[mid][n]){
+            //    return true;
+            // }
            
-            else if(target > matrix[mid][0] && target < matrix[mid][n] ){
+            if(target >= matrix[mid][0] && target <= matrix[mid][n] ){
                 ans = searchelem( matrix, target , mid);
                 return ans;
             }
