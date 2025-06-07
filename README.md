@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0313-super-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0458-poor-pigs) |
