@@ -34,22 +34,25 @@ public:
 
 
 
-      set<vector<int>>st;
+      
        vector<vector<int>>ans;
        sort(nums.begin(),nums.end());
        for(int i=0;i<nums.size()-1;i++){
           int l = i+1,r = nums.size()-1;
           int sum = 0;
+          if(i>0 && nums[i] == nums[i-1]) continue;
           while(l<r){
             sum = (nums[l] + nums[r] + nums[i]);
-            if(sum == 0){st.insert({nums[i],nums[l],nums[r]}); l++;r--; }
+            if(sum == 0){
+                ans.push_back({nums[i],nums[l],nums[r]}); l++;r--;
+                
+                 while(l>0 && l<nums.size() &&nums[l] == nums[l-1])l++;
+                 }
             else if (sum > 0) r--;
             else l++;
           }
        }
-       for(auto it : st){
-          ans.push_back(it);
-       }
+     
        return ans;
     }
     
