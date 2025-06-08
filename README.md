@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0963-three-equal-parts](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
 | [0963-three-equal-parts](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0963-three-equal-parts) |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1012-equal-rational-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1012-equal-rational-numbers) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1073-number-of-enclaves](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
@@ -1079,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0258-add-digits) |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
 ## Enumeration
