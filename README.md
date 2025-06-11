@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0856-consecutive-numbers-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0856-consecutive-numbers-sum) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
+| [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
 | [0910-nth-magical-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0910-nth-magical-number) |
 | [0923-super-egg-drop](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0927-sum-of-subsequence-widths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0927-sum-of-subsequence-widths) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0258-add-digits) |
+| [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
 | [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
