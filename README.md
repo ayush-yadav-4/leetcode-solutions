@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0204-count-primes) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0137-single-number-ii) |
