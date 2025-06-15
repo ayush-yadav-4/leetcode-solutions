@@ -26,7 +26,7 @@ public:
         }
         else r--;
 
-        if(area>ans )ans = max(area,ans);
+        if(area>ans)ans = max(area,ans);
         }
         return ans;
 
