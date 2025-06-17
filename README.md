@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
