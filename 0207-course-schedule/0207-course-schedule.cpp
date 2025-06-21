@@ -1,19 +1,19 @@
 class Solution {
 public:
-    bool loop(vector<vector<int>>& graph, vector<int>& visited, int idx) {
-        if (visited[idx] == 1)
-            return false; // currently processing and Loop detect
-        if (visited[idx] == 2)
-            return true;
-        visited[idx] = 1;
-        for (auto it : graph[idx]) {
+    // bool loop(vector<vector<int>>& graph, vector<int>& visited, int idx) {
+    //     if (visited[idx] == 1)
+    //         return false; // currently processing and Loop detect
+    //     if (visited[idx] == 2)
+    //         return true;
+    //     visited[idx] = 1;
+    //     for (auto it : graph[idx]) {
 
-            if (loop(graph, visited, it) == false)
-                return false;
-        }
-        visited[idx] = 2;
-        return true;
-    }
+    //         if (loop(graph, visited, it) == false)
+    //             return false;
+    //     }
+    //     visited[idx] = 2;
+    //     return true;
+    // }
     
     bool DFS(vector<int>adj[],vector<int>&vis,vector<int>&pathvis,int node){
     vis[node] = 1;
