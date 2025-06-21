@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0856-consecutive-numbers-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0856-consecutive-numbers-sum) |
+| [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
 | [0910-nth-magical-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0910-nth-magical-number) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0804-rotated-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0804-rotated-digits) |
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
+| [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0923-super-egg-drop](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1217,4 +1220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
