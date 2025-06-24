@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0859-design-circular-deque](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0860-design-circular-queue) |
+| [0870-magic-squares-in-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0879-maximize-distance-to-closest-person](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0890-lemonade-change](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-rabbits-in-forest](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0816-design-hashset) |
+| [0870-magic-squares-in-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0856-consecutive-numbers-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0856-consecutive-numbers-sum) |
 | [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
+| [0870-magic-squares-in-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
 | [0910-nth-magical-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0910-nth-magical-number) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0798-transform-to-chessboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
+| [0870-magic-squares-in-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
