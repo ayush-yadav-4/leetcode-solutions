@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0805-escape-the-ghosts) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
+| [0826-soup-servings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0856-consecutive-numbers-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0856-consecutive-numbers-sum) |
 | [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0804-rotated-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0804-rotated-digits) |
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
+| [0826-soup-servings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0923-super-egg-drop](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -1234,5 +1236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Probability and Statistics
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
