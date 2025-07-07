@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-adding-two-negabinary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1148-adding-two-negabinary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1148-adding-two-negabinary-numbers) |
+| [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1276-closest-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1276-closest-divisors) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1057-numbers-with-repeated-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -1258,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
