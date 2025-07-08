@@ -1,5 +1,8 @@
 class Solution {
 public:
+void BFS(vector<vector<int>>&vis, vector<vector<int>>&grid ){
+   
+}
 void dfs(int row,int col,vector<vector<char>>& grid,vector<vector<int>>&visited){
 
     visited[row][col] = 1;
@@ -17,25 +20,17 @@ void dfs(int row,int col,vector<vector<char>>& grid,vector<vector<int>>&visited)
 
 }
     int numIslands(vector<vector<char>>& grid) {
-        
-        vector<vector<int>>visited(grid.size(),vector<int>(grid[0].size(),0));
-
-        for(int i=0;i<grid.size();i++){
-            for(int j=0;j<grid[0].size();j++){
-                  if(grid[i][j] == '0'){
-                    visited[i][j] = 1;
-                  }
-            } 
+        vector<vector<int>>vis(grid.size(),vector<int>(grid[0].size(),0));
+        int ans = 0;
+     for(int i=0;i<grid.size();i++){
+        for(int j=0;j<grid[0].size();j++){
+           if(grid[i][j] == '1' && vis[i][j] == 0){
+            ans++;
+             dfs(i,j,grid,vis);
+             
+           }
         }
-      int ans=0;
-       for(int i=0;i<grid.size();i++){
-            for(int j=0;j<grid[0].size();j++){
-                  if(grid[i][j] == '1' && visited[i][j] == 0){
-                    ans++;
-                  dfs(i,j,grid,visited);
-                  }
-            } 
-        }
-        return ans;
+     }
+     return ans;   
     }
 };
