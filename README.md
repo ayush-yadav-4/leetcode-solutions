@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1571-allocate-mailboxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1571-allocate-mailboxes) |
+| [1585-the-kth-factor-of-n](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1617-stone-game-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1251,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
 | [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
+| [1585-the-kth-factor-of-n](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1947-number-of-different-subsequences-gcds) |
