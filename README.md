@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1012-equal-rational-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1012-equal-rational-numbers) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1033-broken-calculator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1033-broken-calculator) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1057-numbers-with-repeated-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1033-broken-calculator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1033-broken-calculator) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
