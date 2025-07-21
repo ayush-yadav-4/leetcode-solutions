@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1947-number-of-different-subsequences-gcds](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2752-sum-multiples) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1610-xor-operation-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
+| [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Memoization
 |  |
@@ -1349,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
+| [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 ## Reservoir Sampling
 |  |
 | ------- |
