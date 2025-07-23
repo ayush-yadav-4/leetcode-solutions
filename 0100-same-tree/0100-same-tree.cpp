@@ -11,22 +11,23 @@
  */
 class Solution {
 public:
-int check(TreeNode*p,TreeNode*q){
-  if(p == NULL && q == NULL) return 1;
-  if((p == NULL && q != NULL) || (p!=NULL && q == NULL))return 0;
+  bool helper(TreeNode* root1, TreeNode* root2){
+    if(root1 == NULL && root2 == NULL) return true;
+    if(root1 == NULL && root2!=NULL || root1 != NULL && root2==NULL) return false;
+    // if(root1->left == NULL && root2->left != NULL || root1->right == NULL && root2->right != NULL || root1->left != NULL && root2->left == NULL ||  root1->right != NULL && root2->right == NULL){
+    //     return false;
+    // }
+    if(root1->val != root2->val) return false;
+    bool left = helper(root1->left,root2->left);
+    bool right = helper(root1->right,root2->right);
 
-  if(p->val != q->val) return 0;
-  int left = check(p->left,q->left);
-  int right = check(p->right,q->right);
-  if(left == 0 || right == 0) return 0;
+    if(!left || !right) return false;
 
-  return left & right;
+    return true;
 
-
-
-}
+    return true;
+  }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(check(p,q) == 0) return false;
-        return true;
+        return helper(p,q);
     }
 };
