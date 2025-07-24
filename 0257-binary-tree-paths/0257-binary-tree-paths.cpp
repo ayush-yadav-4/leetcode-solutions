@@ -1,25 +1,33 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    void find_path(TreeNode* root, string path, vector<string>& ans) {
-        if (!root) return;  // Base case: If node is null, return
-
-        path += to_string(root->val);  // Append current node value
-
-        if (!root->left && !root->right) {  // If leaf node, push the path
-            ans.push_back(path);
-            return;
-        }
-
-        path += "->";  // Append separator for next nodes
-
-        // Recur for left and right subtrees
-        find_path(root->left, path, ans);
-        find_path(root->right, path, ans);
+  void helper(TreeNode* root,string str, vector<string>&ans){
+    if(root->left == NULL && root->right == NULL){
+           str += to_string(root->val);
+        ans.push_back(str);
+        str = "";
+        return;
     }
+    str += to_string(root->val);
+    str += "->";
+    if(root->left!= NULL)helper(root->left,str,ans);
+    if(root->right != NULL)helper(root->right,str,ans);
+    
 
+  }
     vector<string> binaryTreePaths(TreeNode* root) {
-        vector<string> ans;
-        find_path(root, "", ans);
+        vector<string>ans;
+        helper(root,"",ans);
         return ans;
     }
 };
