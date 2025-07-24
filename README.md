@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1970-sorting-the-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Design
 |  |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1235,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
