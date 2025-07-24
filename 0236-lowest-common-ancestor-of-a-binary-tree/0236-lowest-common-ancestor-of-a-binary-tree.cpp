@@ -9,21 +9,20 @@
  */
 class Solution {
 public:
-
-TreeNode* find_node(TreeNode* root, TreeNode* p, TreeNode* q){
-
-    if(root == NULL || root == p ||root == q){
-        return root;
-    }
-
-    TreeNode* left = find_node(root->left,p,q);
-    TreeNode* right = find_node(root->right,p,q);
-
-    if(left == NULL )return right;
-    else if(right == NULL) return left;
-    else return root;
-}
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return find_node(root,p,q);
+        
+        if(root == NULL) return NULL;
+        if(root == p || root == q) return root;
+
+        TreeNode* left =  lowestCommonAncestor(root->left,p,q);
+        TreeNode* right =  lowestCommonAncestor(root->right,p,q);
+
+        if(left && right){
+         return root;
+        }
+        else if(left != NULL){
+            return left;
+        }
+        else return right;
     }
 };
