@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
 | [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
+| [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1012-equal-rational-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1012-equal-rational-numbers) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1033-broken-calculator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1033-broken-calculator) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1057-numbers-with-repeated-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1057-numbers-with-repeated-digits) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0935-orderly-queue) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0976-minimum-area-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
+| [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
 |  |
@@ -974,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
@@ -1280,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
 |  |
 | ------- |
@@ -1329,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0866-rectangle-overlap) |
 | [0976-minimum-area-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
+| [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
 | [1733-maximum-number-of-visible-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1733-maximum-number-of-visible-points) |
