@@ -11,18 +11,16 @@
  */
 class Solution {
 public:
-void push_elem(TreeNode* root,vector<int>&arr){
-    if(root == NULL)return;
+void helper(TreeNode* root, vector<int>&arr){
+    if(root == NULL) return;
+
+    helper(root->left,arr);
     arr.push_back(root->val);
-
-    push_elem(root->left,arr);
-     push_elem(root->right,arr);
-
+    helper(root->right,arr);
 }
     int kthSmallest(TreeNode* root, int k) {
         vector<int>arr;
-        push_elem(root,arr);
-        sort(arr.begin(),arr.end());
+        helper(root,arr);
         return arr[k-1];
     }
 };
