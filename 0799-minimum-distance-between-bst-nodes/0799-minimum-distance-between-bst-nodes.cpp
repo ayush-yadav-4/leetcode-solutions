@@ -11,17 +11,25 @@
  */
 class Solution {
 public:
-    void find_dist(TreeNode* root,int &val,int &prev){
-
-     if(root == NULL)return;
-    find_dist(root->left,val,prev);
-    val = min(val,abs(prev - root->val));
-    prev = root->val;
-    find_dist(root->right,val,prev);
-    }
+TreeNode* prev = NULL;
+int helper(TreeNode* root){
+    if(root == NULL) return INT_MAX;
+    int ans = INT_MAX;
+    if(root->left)
+    {int leftmin = helper(root->left);
+    ans = min(ans,leftmin);}
+    
+    if(prev != NULL) ans = min(ans,root->val - prev->val);
+    
+    prev = root;
+    if(root->right)
+   {int  rightmin = helper(root->right);
+    ans = min(ans,rightmin);}
+     return ans;
+}
     int minDiffInBST(TreeNode* root) {
-        int val = INT_MAX,prev = INT_MAX;
-        find_dist(root,val,prev);
-        return val;
+        
+        return helper(root);
+        
     }
 };
