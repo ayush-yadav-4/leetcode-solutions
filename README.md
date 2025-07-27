@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0679-24-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0679-24-game) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1276-closest-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1276-closest-divisors) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1610-xor-operation-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
