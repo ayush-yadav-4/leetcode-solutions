@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-adding-two-negabinary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
+| [1230-maximum-of-absolute-value-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-adding-two-negabinary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
+| [1230-maximum-of-absolute-value-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1276-closest-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1276-closest-divisors) |
