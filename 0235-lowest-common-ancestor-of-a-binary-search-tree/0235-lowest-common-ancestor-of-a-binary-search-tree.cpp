@@ -10,15 +10,14 @@
 
 class Solution {
 public:
-    TreeNode* search(TreeNode* root, TreeNode* p, TreeNode* q){
-      if(root == NULL) return NULL;
-    if(p->val < root->val && q->val < root->val) return search(root->left,p,q);
-    if(p->val > root->val && q->val > root->val) return search(root->right,p,q);
+  TreeNode* helper(TreeNode* root, TreeNode* p, TreeNode* q){
+    if(root == NULL) return NULL;
+
+    if(root->val > p->val&& root->val > q->val ) return helper(root->left,p,q);
+    if(root->val < p->val&& root->val < q->val ) return helper(root->right,p,q);
     return root;
-    }
+  }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-      
-        return search(root,p,q);
-        
+        return helper(root,p,q);
     }
 };
