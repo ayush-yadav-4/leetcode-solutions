@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1968-maximum-building-height](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1968-maximum-building-height) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2037-count-square-sum-triples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2037-count-square-sum-triples) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -1378,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0204-count-primes) |
 | [0856-consecutive-numbers-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0856-consecutive-numbers-sum) |
+| [2037-count-square-sum-triples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2037-count-square-sum-triples) |
 ## Geometry
 |  |
 | ------- |
