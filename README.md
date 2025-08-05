@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1947-number-of-different-subsequences-gcds) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1048-clumsy-factorial) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
