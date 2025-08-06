@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1733-maximum-number-of-visible-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1771-sell-diminishing-valued-colored-balls) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1500-count-largest-group) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-number-of-ways-to-split-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1728-fancy-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1728-fancy-sequence) |
 | [1733-maximum-number-of-visible-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [1761-count-sorted-vowel-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1761-count-sorted-vowel-strings) |
