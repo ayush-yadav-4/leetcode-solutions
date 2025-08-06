@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1148-adding-two-negabinary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1148-adding-two-negabinary-numbers) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1183-statistics-from-a-large-sample](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1183-statistics-from-a-large-sample) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1113-moving-stones-until-consecutive-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1115-valid-boomerang](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1115-valid-boomerang) |
 | [1148-adding-two-negabinary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1148-adding-two-negabinary-numbers) |
+| [1183-statistics-from-a-large-sample](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1183-statistics-from-a-large-sample) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1230-maximum-of-absolute-value-expression) |
@@ -1491,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
+| [1183-statistics-from-a-large-sample](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1183-statistics-from-a-large-sample) |
 | [1362-airplane-seat-assignment-probability](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Shortest Path
