@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1276-closest-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1276-closest-divisors) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
 | [1284-four-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1284-four-divisors) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1362-airplane-seat-assignment-probability](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
