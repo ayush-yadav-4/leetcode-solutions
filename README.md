@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1936-maximize-number-of-nice-divisors) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-number-of-ways-to-split-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
