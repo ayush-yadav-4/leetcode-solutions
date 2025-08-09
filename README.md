@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0390-elimination-game) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
