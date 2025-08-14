@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-minimum-area-rectangle-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-equal-rational-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1012-equal-rational-numbers) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1033-broken-calculator) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1048-clumsy-factorial](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1048-clumsy-factorial) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0976-minimum-area-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
@@ -976,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0946-smallest-range-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1033-broken-calculator) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
