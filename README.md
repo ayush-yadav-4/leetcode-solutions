@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1276-closest-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1276-closest-divisors) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
+| [1279-prime-arrangements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1279-prime-arrangements) |
 | [1284-four-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
