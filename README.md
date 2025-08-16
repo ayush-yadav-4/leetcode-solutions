@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
 | [1284-four-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1284-four-divisors) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1279-prime-arrangements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1279-prime-arrangements) |
 | [1284-four-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1362-airplane-seat-assignment-probability](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
@@ -1466,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-minimum-area-rectangle-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1115-valid-boomerang) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
 | [1733-maximum-number-of-visible-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1733-maximum-number-of-visible-points) |
