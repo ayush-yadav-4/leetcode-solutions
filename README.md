@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1806-count-of-matches-in-tournament](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1806-count-of-matches-in-tournament](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1971-incremental-memory-leak](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1971-incremental-memory-leak) |
