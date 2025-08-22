@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1094-matrix-cells-in-distance-order](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1115-valid-boomerang](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1115-valid-boomerang) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1070-convert-to-base-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1070-convert-to-base-2) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1094-matrix-cells-in-distance-order](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1103-moving-stones-until-consecutive](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1103-moving-stones-until-consecutive) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1115-valid-boomerang](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1115-valid-boomerang) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-matrix-cells-in-distance-order](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [1036-rotting-oranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1094-matrix-cells-in-distance-order](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
@@ -1472,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1094-matrix-cells-in-distance-order](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
