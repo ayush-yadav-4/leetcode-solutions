@@ -1580,4 +1580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
