@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0372-super-pow) |
 | [0384-shuffle-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1492,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0866-rectangle-overlap) |
@@ -1593,4 +1597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0176-second-highest-salary) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
