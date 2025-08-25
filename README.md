@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1968-maximum-building-height](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1968-maximum-building-height) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
+| [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2037-count-square-sum-triples) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
+| [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2187-vowels-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -727,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2187-vowels-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -974,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
+| [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2187-vowels-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Memoization
@@ -984,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 ## Greedy
 |  |
 | ------- |
