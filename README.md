@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1968-maximum-building-height](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1968-maximum-building-height) |
+| [2002-stone-game-viii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2002-stone-game-viii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2002-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-maximum-building-height](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1968-maximum-building-height) |
 | [1971-incremental-memory-leak](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1971-incremental-memory-leak) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2002-stone-game-viii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2037-count-square-sum-triples) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2002-stone-game-viii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
@@ -1562,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
+| [2002-stone-game-viii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Bitmask
 |  |
