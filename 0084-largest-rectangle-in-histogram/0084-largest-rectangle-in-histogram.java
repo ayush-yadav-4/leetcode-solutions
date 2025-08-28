@@ -1,47 +1,31 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        if(heights.length == 1){
-            return heights[0];
-        }
-           
-       int count = 0;
-       int[] ans = new int[(heights.length)];
-       int[] rightans = new int[(heights.length)];
-       int[] leftans = new int[(heights.length)];
-       Arrays.fill(rightans,1);
-       Arrays.fill(leftans,-1);
-        Stack<Integer> st = new Stack<>(); 
-        
-          for(int i = 0; i < heights.length; i++){
-        while(!st.isEmpty() && heights[i]< heights[st.peek()]){
-            rightans[st.peek()] = i;
-            st.pop();
-        }
-        st.push(i);
-          }
+        Stack<Integer>st = new Stack<>();
+      
+        int ans = 0;
 
-          while(!st.isEmpty()){
-            rightans[st.peek()] = heights.length;
-            st.pop();
-          }
-               for(int i = heights.length -1; i >=0; i--){
-        while(!st.isEmpty() && heights[i]< heights[st.peek()]){
-            leftans[st.peek()] = i;
-            st.pop();
-        }
-        st.push(i);
-          }
+        for(int i=0;i<heights.length;i++){
+          
+          while(!st.empty() && heights[st.peek()] > heights[i]){
+            int curr = heights[st.peek()]; st.pop();
+            int prev = (st.empty())?-1:st.peek();
+            int next = i;
 
-        
-        for(int i = 0; i < heights.length; i++){
-           ans[i] = heights[i] * (rightans[i] - leftans[i] - 1);
+            ans = Math.max(ans,(curr*(next-prev-1)));
+            
+            
+          }
+          st.push(i);
         }
-          int max = 0;
-         for(int i = 0; i < ans.length; i++){
-            if(ans[i]> max) max = ans[i];
+         int n = heights.length;
+        while (!st.isEmpty()) {
+            int curr = st.pop();
+            int height = heights[curr];
+            int prev = (st.isEmpty()) ? -1 : st.peek();
+            int width = n - prev - 1;
+
+            ans = Math.max(ans, height * width);
         }
-        return max;
-        
+        return ans;
     }
-     
 }
