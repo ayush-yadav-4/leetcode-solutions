@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2187-vowels-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2187-vowels-of-all-substrings) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2222-abbreviating-the-product-of-a-range](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2222-abbreviating-the-product-of-a-range) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -1521,6 +1522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [2037-count-square-sum-triples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2037-count-square-sum-triples) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Geometry
 |  |
 | ------- |
