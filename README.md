@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2457-count-special-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2457-count-special-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-maximum-building-height](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1968-maximum-building-height) |
 | [1970-sorting-the-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
@@ -1162,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Merge Sort
@@ -1517,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1936-maximize-number-of-nice-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
 ## Enumeration
 |  |
