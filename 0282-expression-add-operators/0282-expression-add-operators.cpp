@@ -1,34 +1,38 @@
 class Solution {
 public:
     vector<string> result;
-
-    void dfs(string& num, int target, int pos, long eval, long prev, string path) {
+    
+    void backtrack(string &num, int target, int pos, long calc, long tail, string expr) {
         if (pos == num.size()) {
-            if (eval == target) result.push_back(path);
+            if (calc == target) {
+                result.push_back(expr);
+            }
             return;
         }
-
-        for (int i = pos; i < num.size(); ++i) {
-            // Avoid numbers with leading zero
+        
+        for (int i = pos; i < num.size(); i++) {
+            // avoid numbers with leading zeros
             if (i != pos && num[pos] == '0') break;
-
+            
             string currStr = num.substr(pos, i - pos + 1);
-            long curr = stol(currStr);
-
+            long currNum = stol(currStr);
+            
             if (pos == 0) {
-                // First number (no operator before it)
-                dfs(num, target, i + 1, curr, curr, currStr);
+                // First number, just take it without operator
+                backtrack(num, target, i + 1, currNum, currNum, currStr);
             } else {
-                dfs(num, target, i + 1, eval + curr, curr, path + "+" + currStr);
-                dfs(num, target, i + 1, eval - curr, -curr, path + "-" + currStr);
-                dfs(num, target, i + 1, eval - prev + prev * curr, prev * curr, path + "*" + currStr);
+                // '+'
+                backtrack(num, target, i + 1, calc + currNum, currNum, expr + "+" + currStr);
+                // '-'
+                backtrack(num, target, i + 1, calc - currNum, -currNum, expr + "-" + currStr);
+                // '*'
+                backtrack(num, target, i + 1, calc - tail + tail * currNum, tail * currNum, expr + "*" + currStr);
             }
         }
     }
-
+    
     vector<string> addOperators(string num, int target) {
-        if (num.empty()) return {};
-        dfs(num, target, 0, 0, 0, "");
+        backtrack(num, target, 0, 0, 0, "");
         return result;
     }
 };
