@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2737-row-with-maximum-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3194-find-words-containing-character](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2752-sum-multiples) |
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [2690-house-robber-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2690-house-robber-iv) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -1093,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Divide and Conquer
 |  |
