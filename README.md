@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3024-string-transformation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3024-string-transformation) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3024-string-transformation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3024-string-transformation) |
 | [3194-find-words-containing-character](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3312-number-of-changing-keys) |
 | [3684-substring-matching-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-substring-matching-pattern) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-count-special-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2457-count-special-integers) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
+| [3024-string-transformation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3024-string-transformation) |
 ## Memoization
 |  |
 | ------- |
@@ -1389,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3024-string-transformation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3024-string-transformation) |
 | [3684-substring-matching-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-substring-matching-pattern) |
 ## Tree
 |  |
