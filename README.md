@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0335-self-crossing) |
@@ -1626,6 +1627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1103-moving-stones-until-consecutive) |
@@ -1633,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
