@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2457-count-special-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2457-count-special-integers) |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2187-vowels-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2457-count-special-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2457-count-special-integers) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
@@ -1570,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1936-maximize-number-of-nice-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1616,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2187-vowels-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2187-vowels-of-all-substrings) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
 ## Brainteaser
 |  |
