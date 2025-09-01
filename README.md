@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
 | [1791-richest-customer-wealth](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
+| [1875-tree-of-coprimes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1875-tree-of-coprimes) |
 | [1876-map-of-highest-peak](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
+| [1875-tree-of-coprimes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1875-tree-of-coprimes) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
@@ -1272,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [1875-tree-of-coprimes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1875-tree-of-coprimes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
@@ -1437,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1875-tree-of-coprimes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1875-tree-of-coprimes) |
 | [2384-root-equals-sum-of-children](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
@@ -1558,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
+| [1875-tree-of-coprimes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1875-tree-of-coprimes) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1947-number-of-different-subsequences-gcds) |
