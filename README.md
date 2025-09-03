@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1571-allocate-mailboxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1571-allocate-mailboxes) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1733-maximum-number-of-visible-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1617-stone-game-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1617-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1761-count-sorted-vowel-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1761-count-sorted-vowel-strings) |
