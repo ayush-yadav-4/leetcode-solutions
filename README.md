@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1048-clumsy-factorial) |
 | [1119-robot-bounded-in-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1195-distribute-candies-to-people](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1195-distribute-candies-to-people) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
