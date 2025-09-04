@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0372-super-pow) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
@@ -1352,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0816-design-hashset) |
@@ -1683,6 +1687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
