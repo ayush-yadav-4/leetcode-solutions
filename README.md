@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0390-elimination-game) |
+| [0781-basic-calculator-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0781-basic-calculator-iv) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1936-maximize-number-of-nice-divisors) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0781-basic-calculator-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0781-basic-calculator-iv) |
 | [0874-backspace-string-compare](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0781-basic-calculator-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0781-basic-calculator-iv) |
 | [0797-rabbits-in-forest](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0870-magic-squares-in-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0755-reach-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0755-reach-a-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0781-basic-calculator-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0781-basic-calculator-iv) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0796-reaching-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -782,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [0781-basic-calculator-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0781-basic-calculator-iv) |
 | [0812-rotate-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0935-orderly-queue](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0935-orderly-queue) |
