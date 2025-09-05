@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0935-orderly-queue](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0942-super-palindromes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0942-super-palindromes) |
 | [0946-smallest-range-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0946-smallest-range-ii) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0935-orderly-queue](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [0942-super-palindromes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0942-super-palindromes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1012-equal-rational-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1012-equal-rational-numbers) |
 | [1078-remove-outermost-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -1626,6 +1628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0479-largest-palindrome-product) |
 | [0856-consecutive-numbers-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [0942-super-palindromes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0942-super-palindromes) |
 | [2037-count-square-sum-triples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2037-count-square-sum-triples) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
