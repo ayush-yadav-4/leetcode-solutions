@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0372-super-pow) |
@@ -1308,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1350,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
