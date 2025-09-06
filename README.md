@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0679-24-game) |
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1359-circular-permutation-in-binary-representation) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
