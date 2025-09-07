@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1289-day-of-the-week](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1289-day-of-the-week) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
+| [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1362-airplane-seat-assignment-probability](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -1510,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1615,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
+| [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1625,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
+| [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Number Theory
 |  |
@@ -1686,6 +1691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0489-kth-smallest-instructions) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
+| [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
