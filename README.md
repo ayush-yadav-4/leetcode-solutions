@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3024-string-transformation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3024-string-transformation) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3024-string-transformation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3024-string-transformation) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3112-count-valid-paths-in-a-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -1350,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3112-count-valid-paths-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1521,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3112-count-valid-paths-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1654,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3112-count-valid-paths-in-a-tree) |
 ## Enumeration
 |  |
 | ------- |
