@@ -1,8 +1,9 @@
 class Solution {
 public:
 int helper(vector<int>& nums,int idx , vector<int>& dp){
-  if(idx ==1 ) return max(nums[0],nums[1]);
+ // if(idx ==1 ) return max(nums[0],nums[1]);
   if(idx == 0) return nums[0];
+  if(idx<0)return 0;
  if(dp[idx]!=-1)return dp[idx];
   int count = nums[idx] + helper(nums,idx-2,dp);
   int nocount = helper(nums,idx-1,dp);
