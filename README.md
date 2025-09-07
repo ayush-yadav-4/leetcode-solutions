@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2737-row-with-maximum-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
+| [2827-greatest-common-divisor-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2827-greatest-common-divisor-traversal) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2757-count-of-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2757-count-of-integers) |
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
+| [2827-greatest-common-divisor-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2827-greatest-common-divisor-traversal) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3017-number-of-beautiful-integers-in-the-range) |
@@ -1223,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [2827-greatest-common-divisor-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2827-greatest-common-divisor-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -1656,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2635-check-if-point-is-reachable](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2635-check-if-point-is-reachable) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
+| [2827-greatest-common-divisor-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2827-greatest-common-divisor-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3112-count-valid-paths-in-a-tree) |
