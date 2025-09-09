@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
+| [1274-number-of-days-between-two-dates](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1276-closest-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1276-closest-divisors) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
 | [1279-prime-arrangements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1279-prime-arrangements) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1274-number-of-days-between-two-dates](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
