@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
