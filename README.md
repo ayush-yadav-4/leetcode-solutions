@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0489-kth-smallest-instructions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0489-kth-smallest-instructions) |
 | [0493-reverse-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0781-basic-calculator-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0781-basic-calculator-iv) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0489-kth-smallest-instructions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0489-kth-smallest-instructions) |
 | [0492-construct-the-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0504-base-7) |
@@ -1109,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0489-kth-smallest-instructions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0489-kth-smallest-instructions) |
 | [0518-coin-change-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -1773,6 +1777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
