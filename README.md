@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0927-sum-of-subsequence-widths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0927-sum-of-subsequence-widths) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0910-nth-magical-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0910-nth-magical-number) |
+| [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0923-super-egg-drop](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0927-sum-of-subsequence-widths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0927-sum-of-subsequence-widths) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0928-surface-area-of-3d-shapes) |
@@ -1292,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 | [0854-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+| [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0967-minimum-falling-path-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -1730,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0866-rectangle-overlap) |
+| [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0976-minimum-area-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1003-minimum-area-rectangle-ii) |
