@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3344-minimize-manhattan-distances](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3344-minimize-manhattan-distances) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3344-minimize-manhattan-distances](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3344-minimize-manhattan-distances) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-building-boxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1861-building-boxes) |
 | [2690-house-robber-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -1713,6 +1717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3208-count-beautiful-substrings-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3208-count-beautiful-substrings-ii) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 ## Enumeration
 |  |
@@ -1769,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3224-count-the-number-of-infection-sequences](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3224-count-the-number-of-infection-sequences) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 ## Brainteaser
 |  |
