@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-building-boxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1861-building-boxes) |
 | [1875-tree-of-coprimes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1875-tree-of-coprimes) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
