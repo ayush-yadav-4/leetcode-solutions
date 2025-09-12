@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -1784,6 +1785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1103-moving-stones-until-consecutive) |
