@@ -1,32 +1,31 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 2) return s;
-        
-        int start = 0, end = 0;
-        
-        for (int i = 0; i < s.length(); i++) {
-            // Case 1: Odd length palindrome
-            int len1 = expandFromCenter(s, i, i);
-            // Case 2: Even length palindrome
-            int len2 = expandFromCenter(s, i, i + 1);
-            
-            int len = Math.max(len1, len2);
-            
-            if (len > (end - start)) {
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
+        if(s.length() == 0 || s.length() == 1) return s;
+        boolean[][]dp = new boolean[s.length()][s.length()];
+          int maxlen =1,st = 0; 
+        for(int i=0;i<s.length();i++){
+           dp[i][i] = true;
+        }
+
+        for(int i=0;i<s.length()-1;i++){
+            if(s.charAt(i) == s.charAt(i+1)){
+                dp[i][i+1] = true;
+                st = i;
+                maxlen = 2;
             }
         }
-        
-        return s.substring(start, end + 1);
-    }
-    
-    private int expandFromCenter(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-            left--;
-            right++;
+
+        for(int len = 3;len<=s.length();len++){
+            for(int i=0;i<=s.length()-len;i++){
+                int j = i + len-1;
+              if(s.charAt(i) == s.charAt(j) && dp[i+1][j-1]){
+                dp[i][j] = true;
+                st = i;
+                maxlen = len;
+              }
+            }
         }
-        return right - left - 1; // palindrome length
+
+        return s.substring(st,st+maxlen);
     }
 }
-
