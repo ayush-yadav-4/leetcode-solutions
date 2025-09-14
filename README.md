@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2222-abbreviating-the-product-of-a-range](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2222-abbreviating-the-product-of-a-range) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1088,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
 | [1968-maximum-building-height](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1968-maximum-building-height) |
 | [1970-sorting-the-sentence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -1245,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
