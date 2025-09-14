@@ -1,27 +1,20 @@
 class Solution {
 public:
+    void helper(vector<string>&ans,int n, int occ,int cc,string s){
+       if(occ == n && cc == n){ ans.push_back(s); return;}
 
-    void Gen(vector<string> &ans,string &temp,int n ,int L, int R){
-        if(L + R == 2*n){
-           ans.push_back(temp);
-        return;
-        }
+       if(occ<n){
+        helper(ans,n,occ+1,cc,s+"(");
+       }
+       if(cc < occ){
+         helper(ans,n,occ,cc+1,s+")");
+       }
 
-        if(L < n){
-            temp.push_back('(');
-             Gen(ans,temp,n,L+1,R);
-            temp.pop_back();
-        }
-
-           if(R < L){
-            temp.push_back(')');
-             Gen(ans,temp,n,L,R+1);
-            temp.pop_back();
-        }
     }
     vector<string> generateParenthesis(int n) {
-         vector<string>ans;   string temp;
-         Gen(ans,temp,n,0,0);
-         return ans;
+        vector<string>ans;
+        string s;
+        helper(ans,n,0,0,"");
+        return ans;
     }
 };
