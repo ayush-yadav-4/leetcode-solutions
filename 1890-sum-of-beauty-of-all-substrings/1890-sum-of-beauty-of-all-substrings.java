@@ -3,15 +3,21 @@ class Solution {
     public int beautySum(String s) {
         int ans = 0;
         for(int i=0;i<s.length();i++){
-              HashMap<Character,Integer> mp = new HashMap<>();
+              int[] freq = new int[26];
+              Arrays.fill(freq,0);
             for(int j=i;j<s.length();j++){
-               mp.put(s.charAt(j),mp.getOrDefault(s.charAt(j),0) +1);
+               freq[s.charAt(j) - 'a']++;
+                int mini = Integer.MAX_VALUE, maxi = Integer.MIN_VALUE;
+               for(int k=0;k<26;k++){
+                 if (freq[k] > 0) { // only consider characters present
+                        maxi = Math.max(maxi, freq[k]);
+                        mini = Math.min(mini, freq[k]);
+                    }
+               }
+              
             
-           int mini = Integer.MAX_VALUE, maxi = Integer.MIN_VALUE;
-       for (int val : mp.values()) {
-    mini = Math.min(mini, val);
-    maxi = Math.max(maxi, val);
-}
+          
+  
             ans += (maxi - mini);
             }
         }
