@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## String
 |  |
 | ------- |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sorting
 |  |
 | ------- |
