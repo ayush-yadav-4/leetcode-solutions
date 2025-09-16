@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0927-sum-of-subsequence-widths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0927-sum-of-subsequence-widths) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0928-surface-area-of-3d-shapes) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0910-nth-magical-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0910-nth-magical-number) |
+| [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0923-super-egg-drop](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0927-sum-of-subsequence-widths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0927-sum-of-subsequence-widths) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0910-nth-magical-number) |
+| [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0923-super-egg-drop](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -1871,6 +1875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
+| [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
 ## Binary Indexed Tree
 |  |
