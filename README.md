@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [0903-implement-rand10-using-rand7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0910-nth-magical-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0910-nth-magical-number) |
 | [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
@@ -1877,6 +1878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
+| [0903-implement-rand10-using-rand7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
 ## Binary Indexed Tree
@@ -1899,6 +1901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0867-new-21-game) |
+| [0903-implement-rand10-using-rand7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0903-implement-rand10-using-rand7) |
 | [1183-statistics-from-a-large-sample](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1183-statistics-from-a-large-sample) |
 | [1362-airplane-seat-assignment-probability](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -1921,4 +1924,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
