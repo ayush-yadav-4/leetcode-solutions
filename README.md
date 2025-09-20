@@ -832,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
@@ -1260,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
@@ -1873,6 +1875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
