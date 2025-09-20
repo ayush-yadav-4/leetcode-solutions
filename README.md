@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1395-minimum-time-visiting-all-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1395-minimum-time-visiting-all-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1844,6 +1846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1395-minimum-time-visiting-all-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1563-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1563-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
 | [1733-maximum-number-of-visible-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1733-maximum-number-of-visible-points) |
