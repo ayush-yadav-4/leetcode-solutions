@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3548-find-the-count-of-good-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 ## Math
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3312-number-of-changing-keys](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3312-number-of-changing-keys) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3684-substring-matching-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-substring-matching-pattern) |
 ## Simulation
@@ -1257,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
 |  |
@@ -1343,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1947-number-of-different-subsequences-gcds](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Union Find
 |  |
 | ------- |
