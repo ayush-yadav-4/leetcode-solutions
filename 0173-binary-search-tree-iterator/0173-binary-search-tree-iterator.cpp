@@ -11,31 +11,34 @@
  */
 class BSTIterator {
 public:
-vector<int>arr;
-int idx = 0;
-  void helper(TreeNode* root){
-    if(root == NULL) return;
-    helper(root->left);
-    arr.push_back(root->val);
-    
-    helper(root->right);
-  }
+stack<TreeNode*>st;
+   
     BSTIterator(TreeNode* root) {
-      helper(root);  
+       TreeNode * ptr = root;
+       pushall(root);
     }
-    
-    int next() {
-        if(idx<=arr.size()-1){
-            int elem = arr[idx];
-            idx++;
-            return elem;
+    void pushall(TreeNode* ptr){
+
+ while(ptr != NULL){
+    st.push(ptr);
+            ptr = ptr->left;
         }
-        return -1;
     }
+
+  
+    int next() {
+     
+            TreeNode* node = st.top();
+           
+            st.pop();
+             pushall(node->right);
+            return node->val;
     
+        
+    }
+   
     bool hasNext() {
-        if(idx<=arr.size()-1){return true;}
-        return false;
+        return !st.empty();
     }
 };
 
