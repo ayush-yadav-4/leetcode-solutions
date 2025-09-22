@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -1176,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -1867,6 +1869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0489-kth-smallest-instructions) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
