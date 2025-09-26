@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [0913-random-flip-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0913-random-flip-matrix) |
 | [0940-fruit-into-baskets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0910-nth-magical-number) |
 | [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [0913-random-flip-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0923-super-egg-drop](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0923-super-egg-drop) |
@@ -1949,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
+| [0913-random-flip-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Randomized
 |  |
@@ -1961,6 +1964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [0913-random-flip-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
 ## Binary Indexed Tree
