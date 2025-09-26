@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0477-total-hamming-distance) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0447-number-of-boomerangs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0464-can-i-win) |
