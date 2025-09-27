@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0860-design-circular-queue) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0445-add-two-numbers-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0458-poor-pigs) |
