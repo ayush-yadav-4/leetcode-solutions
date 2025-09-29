@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1678-number-of-ways-to-split-a-string) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -1171,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1571-allocate-mailboxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1571-allocate-mailboxes) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1733-maximum-number-of-visible-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
@@ -1341,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
 | [1861-building-boxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1861-building-boxes) |
@@ -1944,6 +1948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1617-stone-game-iv) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
 | [2002-stone-game-viii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2002-stone-game-viii) |
