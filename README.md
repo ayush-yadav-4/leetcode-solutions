@@ -973,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2235-capitalize-the-title](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2235-capitalize-the-title) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
