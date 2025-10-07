@@ -807,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1861-building-boxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1861-building-boxes) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2690-house-robber-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -1369,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
 | [1861-building-boxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1861-building-boxes) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
