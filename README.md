@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
+| [1646-kth-missing-positive-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-stone-game-v](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1685-stone-game-v) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1861-building-boxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1861-building-boxes) |
