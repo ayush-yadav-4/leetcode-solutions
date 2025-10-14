@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
