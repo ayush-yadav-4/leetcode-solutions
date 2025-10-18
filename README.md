@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0940-fruit-into-baskets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [0944-smallest-range-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0963-three-equal-parts](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0963-three-equal-parts) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0942-super-palindromes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0942-super-palindromes) |
+| [0944-smallest-range-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0946-smallest-range-ii) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
