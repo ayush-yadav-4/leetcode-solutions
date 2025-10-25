@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0963-three-equal-parts](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0963-three-equal-parts) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0913-random-flip-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0913-random-flip-matrix) |
 | [0940-fruit-into-baskets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
 | [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0946-smallest-range-ii) |
 | [0949-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0949-cat-and-mouse) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0956-number-of-music-playlists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0956-number-of-music-playlists) |
 | [0963-three-equal-parts](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0963-three-equal-parts) |
 | [0976-minimum-area-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
@@ -1442,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -1898,6 +1902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
 | [1307-ugly-number-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1307-ugly-number-iii) |
