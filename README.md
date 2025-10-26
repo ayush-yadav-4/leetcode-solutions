@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2383-add-two-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
