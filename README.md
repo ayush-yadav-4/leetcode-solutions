@@ -871,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2457-count-special-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2457-count-special-integers) |
+| [2491-smallest-even-multiple](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2496-count-days-spent-together](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2496-count-days-spent-together) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
@@ -1929,6 +1930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2491-smallest-even-multiple](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2635-check-if-point-is-reachable](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2635-check-if-point-is-reachable) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2827-greatest-common-divisor-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2827-greatest-common-divisor-traversal) |
