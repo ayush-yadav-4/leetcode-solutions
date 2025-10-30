@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-count-special-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2457-count-special-integers) |
 | [2491-smallest-even-multiple](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2496-count-days-spent-together](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2496-count-days-spent-together) |
+| [2507-number-of-common-factors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -1931,6 +1932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2491-smallest-even-multiple](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [2635-check-if-point-is-reachable](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2635-check-if-point-is-reachable) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2827-greatest-common-divisor-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2827-greatest-common-divisor-traversal) |
@@ -1954,6 +1956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2507-number-of-common-factors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
