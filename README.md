@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-count-days-spent-together](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2496-count-days-spent-together) |
 | [2507-number-of-common-factors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
