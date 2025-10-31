@@ -877,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2556-convert-the-temperature](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
