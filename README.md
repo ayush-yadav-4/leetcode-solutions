@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1968-maximum-building-height](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1968-maximum-building-height) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2002-stone-game-viii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-maximum-building-height](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1968-maximum-building-height) |
 | [1971-incremental-memory-leak](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1971-incremental-memory-leak) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2002-stone-game-viii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2002-stone-game-viii) |
 | [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
@@ -1188,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -1956,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0942-super-palindromes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0942-super-palindromes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -2005,6 +2010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2187-vowels-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
