@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0204-count-primes) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0224-basic-calculator) |
