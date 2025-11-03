@@ -884,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2531-create-components-with-same-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2556-convert-the-temperature) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -1995,6 +1996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-best-position-for-a-service-centre](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1638-best-position-for-a-service-centre) |
 | [1733-maximum-number-of-visible-points](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1733-maximum-number-of-visible-points) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3344-minimize-manhattan-distances](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3344-minimize-manhattan-distances) |
 ## Combinatorics
