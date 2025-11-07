@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3208-count-beautiful-substrings-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3212-count-the-number-of-good-partitions) |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2757-count-of-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2757-count-of-integers) |
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2827-greatest-common-divisor-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2827-greatest-common-divisor-traversal) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
