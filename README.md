@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2037-count-square-sum-triples) |
+| [2039-sum-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-minimum-cost-to-change-the-final-value-of-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2008-minimum-cost-to-change-the-final-value-of-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2039-sum-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2039-sum-game) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2187-vowels-of-all-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2187-vowels-of-all-substrings) |
@@ -1436,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2039-sum-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2156-stone-game-ix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -2067,6 +2070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1808-stone-game-vii) |
 | [2002-stone-game-viii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2002-stone-game-viii) |
+| [2039-sum-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2156-stone-game-ix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
