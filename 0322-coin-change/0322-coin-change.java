@@ -1,26 +1,49 @@
 class Solution {
 
-    public static int helper(int[] coins,int idx, int sum,int[][]dp){
-     
-      if(idx == 0){
-        if(sum % coins[idx] == 0) return sum/coins[idx];
-        return (int)1e9;
-      }
-      if(dp[idx][sum] != -1) return dp[idx][sum];
-      int nopick =0+ helper(coins,idx-1,sum,dp);
-      int pick = (sum >= coins[idx])? 1+ helper(coins,idx,sum-coins[idx],dp):(int)1e9;
-     
+    // int helper(int[] coins, int amt,int idx, int[][] dp){
 
-      return dp[idx][sum] = Math.min(nopick,pick);
-    }
+    //     if(amt<=0){
+    //         if(amt == 0) return 0;
+    //         return Interger.MIN_VALUE;
+    //     }
+    //     if(idx >= coins.size()){
+    //           if(amt == 0) return 0;
+    //         return Interger.MIN_VALUE;
+    //     }
+
+    //    int pick = 0;
+    //    if(coins[idx]<=amt){
+    //     pick = coins[idx] + helper(coins,amt-coins[idx],idx+1,dp);
+    //    }
+    //    int notpick = helper(coins,amt,idx+1,dp);
+
+    //    return dp[idx][amt] = return Math.max(pick, notpick);
+    // }
     public int coinChange(int[] coins, int amount) {
-        if(amount == 0) return 0;
-        int[][]dp = new int[coins.length][amount+1];
-
-        for(int[] row : dp){
-           Arrays.fill(row,-1);
+        int[][] dp = new int[coins.length + 1][amount + 1];
+       
+        int INF = (int)1e6;
+        for(int i=0;i<=amount;i++){
+             dp[0][i] = INF;
         }
-     int ans = helper(coins, coins.length - 1, amount, dp);
-        return ans >= 1e9 ? -1 : ans;
+        for(int i=0;i<=coins.length;i++){
+             dp[i][0] = 0;
+        }
+        dp[0][0] = 0;
+
+        for(int i = 1;i<=coins.length;i++){
+            for(int j = 0;j<=amount;j++){
+               int pick = INF;
+                if (coins[i - 1] <= j && dp[i][j - coins[i - 1]] != INF) {
+                    pick = dp[i][j - coins[i - 1]] + 1;
+                }
+                int notpick = dp[i - 1][j];
+
+               dp[i][j] = Math.min(pick,notpick);
+            }
+        }
+
+       int ans = dp[coins.length][amount];
+        return ans >= INF ? -1 : ans;
     }
 }
