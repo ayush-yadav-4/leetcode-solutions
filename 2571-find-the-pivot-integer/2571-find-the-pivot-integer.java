@@ -1,8 +1,10 @@
 class Solution {
     public int pivotInteger(int n) {
-        int ans = (n * n + n ) /2;
-        int sq = (int)Math.sqrt(ans);
-        if(sq * sq == ans)return sq;
-        else return -1;
+        int total = n * (n + 1) / 2;
+        int sqrt = (int)Math.sqrt(total);
+        if (sqrt * sqrt == total) {
+            return sqrt;
+        }
+        return -1;
     }
 }
