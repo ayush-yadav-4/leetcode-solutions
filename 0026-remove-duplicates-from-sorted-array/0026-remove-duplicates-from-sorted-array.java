@@ -1,15 +1,13 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int[] arr = new int[nums.length];
-         int idx = 1;
-         arr[0] = nums[0];
-        for(int i=0;i<nums.length;i++){
-          if(i>0 && nums[i] != nums[i-1])arr[idx++] = nums[i];
-          
+        int st = 0, sec = 0,cnt = 0;
+        while(sec <= nums.length){
+           while(sec < nums.length && nums[st] == nums[sec]) sec++;
+           if(sec == nums.length) break;
+           st++;
+           nums[st] = nums[sec];
+           cnt++;
         }
-
-        System.arraycopy(arr,0,nums,0,nums.length);
-
-        return idx;
+       return cnt+1;
     }
 }
