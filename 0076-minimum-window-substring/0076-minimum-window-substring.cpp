@@ -1,46 +1,35 @@
 class Solution {
 public:
+bool check(vector<int>t_freq,vector<int>s_freq ){
+  
+  for(int i = 0;i< 128;i++){
+     if(s_freq[i] < t_freq[i]) return false;
+  }
+  return true;
+}
     string minWindow(string s, string t) {
-        if (s.empty() || t.empty()) return "";
-
-        unordered_map<char, int> need, window;
-        for (char c : t) need[c]++;
-
-        int left = 0, right = 0;
-        int valid = 0;  // Number of chars that meet the required count
-        int start = 0, len = INT_MAX;
-
-        while (right < s.size()) {
-            char c = s[right];
-            right++;
-            // If it's a required character, update the window count
-            if (need.count(c)) {
-                window[c]++;
-                if (window[c] == need[c]) {
-                    valid++;
-                }
-            }
-
-            // Try to shrink the window from the left
-            while (valid == need.size()) {
-                // Update the minimum window
-                if (right - left < len) {
-                    start = left;
-                    len = right - left;
-                }
-
-                char d = s[left];
-                left++;
-                if (need.count(d)) {
-                    if (window[d] == need[d]) {
-                        valid--;
-                    }
-                    window[d]--;
-                }
-            }
+        if(t.size() > s.size()) return "";
+        if(s == t) return s;
+        vector<int>t_freq(128,0);
+        vector<int>s_freq(128,0);
+       int ans = INT_MAX, st = 0, end = 0,f = 0,l = 0;
+        for(int i=0;i<t.size();i++){
+           t_freq[t[i]]++;
         }
 
-        return len == INT_MAX ? "" : s.substr(start, len);
+        while(end < s.size()){
+            s_freq[s[end]]++;
+           while(check(t_freq,s_freq)){
+            if(ans > end-st+1){
+                f = st; l = end; ans = end - st +1;
+            }
+            s_freq[s[st]]--;
+
+            st++;
+           }
+           end++;
+        }
+        if(ans == INT_MAX) return "";
+        return s.substr(f,l-f+1);
     }
 };
-
