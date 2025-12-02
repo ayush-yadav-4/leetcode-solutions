@@ -675,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0477-total-hamming-distance) |
+| [0478-generate-random-point-in-a-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -2004,6 +2005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0866-rectangle-overlap) |
@@ -2114,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0398-random-pick-index) |
+| [0478-generate-random-point-in-a-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
@@ -2167,5 +2170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rejection Sampling
 |  |
 | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0903-implement-rand10-using-rand7](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
