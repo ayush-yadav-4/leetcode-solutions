@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0790-global-and-local-inversions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0781-basic-calculator-iv](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0781-basic-calculator-iv) |
 | [0874-backspace-string-compare](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0937-online-stock-span) |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
