@@ -11,18 +11,17 @@
 class Solution {
 public:
 
-TreeNode* helper(TreeNode* node, TreeNode* p, TreeNode* q){
-  if(node == NULL) return NULL;
-
-  if(node == p || node == q) return node;
-  TreeNode* left = helper(node->left,p,q);
-  TreeNode* right = helper(node->right,p,q);
-
-  if(left && right) return node;
-  else if(left == NULL) return right;
-  else return left;
-}
+// TreeNode* helper(TreeNode* root, TreeNode* p, TreeNode* q){
+    
+// }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return helper(root,p,q);
+        if(root == NULL) return NULL;
+  if(root->val > p->val && root->val > q->val ){
+      return lowestCommonAncestor(root->left,p,q);
+  }
+  else if(root->val < p->val && root->val < q->val ){
+      return lowestCommonAncestor(root->right,p,q);
+  }
+   return root;
     }
 };
