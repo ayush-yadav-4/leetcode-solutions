@@ -1645,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
@@ -1692,6 +1693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0672-bulb-switcher-ii) |
@@ -1828,6 +1830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1881,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
