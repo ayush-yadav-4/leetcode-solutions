@@ -10,16 +10,19 @@
  * };
  */
 class Solution {
-public:
-bool helper(TreeNode* root,long long mini,long long maxi){
-    if(root ==  NULL) return true;
-    if (root->val <= mini || root->val >= maxi)
-            return false;
+public: 
 
-        return helper(root->left, mini, root->val) &&
-               helper(root->right, root->val, maxi);
-}
+bool helper(TreeNode* root,TreeNode* min,TreeNode* max){
+    if(root == NULL ) return true;
+        if(min != NULL && root->val <= min->val) return false;
+          if(max != NULL && root->val >= max->val) return false;
+
+        return helper(root->left,min,root) && helper(root->right,root,max);
+   }
+
+
     bool isValidBST(TreeNode* root) {
-        return helper(root,LLONG_MIN,LLONG_MAX);
+        if(root->left == NULL && root->right == NULL) return true;
+        return helper(root,NULL,NULL);
     }
 };
