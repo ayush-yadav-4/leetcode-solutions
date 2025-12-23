@@ -18,40 +18,36 @@ public:
 
 class Solution {
 public:
-Node* helper(Node* root){
-
-    queue<Node*>q;
-    q.push(root);
-     Node* prev = NULL;
-     q.push(NULL);
-    while(!q.empty()){
-          Node*node = q.front();
-          q.pop();
-          if(node == NULL){
-             if(q.size() == 0){
-                 break;
-             }
-             else{
-                q.push(NULL);
-             }
-          }else{
-               if(node->left)q.push(node->left);
-          if(node->right)q.push(node->right);
-          if(prev != NULL)prev->next = node;
-
-          }
-          prev = node;
-
-        
-        
-         
-
-       }
-    
-    return root;
-}
     Node* connect(Node* root) {
+        queue<Node*>q;
         if(root == NULL) return NULL;
-        return helper(root);
+        q.push(root);
+        q.push(NULL);
+        Node* prev = NULL;
+
+        while(q.size()>0){
+           Node* curr = q.front();
+           q.pop();
+           
+           if(curr == NULL){
+             if(q.size() == 0){
+                break;
+             }
+             q.push(curr);
+           }
+           else{
+             if(curr->left){
+                q.push(curr->left);
+             }
+             if(curr->right){
+                q.push(curr->right);
+             }
+             if(prev!=NULL){
+                prev->next = curr;
+             }
+           }
+           prev = curr;
+        }
+        return root;
     }
 };
