@@ -11,25 +11,28 @@
  */
 class Solution {
 public:
-TreeNode* first = NULL;TreeNode* second = NULL;TreeNode* prev = NULL;
-    void helper(TreeNode* root){
-
-        if(root == NULL) return;
-
-        helper(root->left);
-        if(prev != NULL && root->val < prev->val){
-          if(first == NULL){
+ 
+   void helper(TreeNode*& root,TreeNode*& prev,TreeNode*& first,TreeNode*& sec){
+    if(root == NULL) return;
+      helper(root->left,prev,first,sec);
+      if(prev != NULL && root->val < prev->val){
+         if(first == NULL){
             first = prev;
-          }
-          second = root;
-        }
-        prev = root;
-        helper(root->right);
-    }
+         }
+         sec = root;
+      }
+      prev = root;
+      helper(root->right,prev,first,sec);
+
+   }
     void recoverTree(TreeNode* root) {
-        helper(root);
-        int temp = first->val;
-        first->val = second->val;
-        second->val = temp;
+        TreeNode* prev = NULL;
+        TreeNode* first = NULL;TreeNode* sec = NULL;
+        helper(root,prev,first,sec);
+        if(first != NULL && sec != NULL){
+            swap(first->val,sec->val);
+        }
+       
+        
     }
 };
