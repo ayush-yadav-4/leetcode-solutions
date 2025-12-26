@@ -1,23 +1,25 @@
 class Solution {
 
-    int helper(int[][] arr,int m,int n,int[][]dp){
-        if(m<0 || n < 0) return (int)1e7;
-        if(m==0 && n ==0) return arr[0][0];
+    int helper(int i,int j,int[][] dp,int[][] grid){
+        if(i == 0 && j ==0) return grid[i][j];
 
-        if(dp[m][n] != -1 ) return dp[m][n];
+        if(i<0 || j<0) return Integer.MAX_VALUE;
 
-        int up = arr[m][n] + helper(arr,m-1,n,dp);
-        int left = arr[m][n] + helper(arr,m,n-1,dp);
+         if(dp[i][j] != -1) return dp[i][j];
+         
+        int up =  helper(i-1,j,dp,grid);
+        int left =  helper(i,j-1,dp,grid);
 
-        return dp[m][n] = Math.min(left , up);
+        return dp[i][j] = grid[i][j] + Math.min(up,left);
     }
-    public int minPathSum(int[][] grid) {
-       
-        int[][]dp = new int[grid.length][grid[0].length];
 
-        for(int[] a: dp){
-            Arrays.fill(a,-1);
+    public int minPathSum(int[][] grid) {
+        int[][] dp = new int[grid.length+1][grid[0].length+1];
+
+        for(int[] arr : dp){
+          Arrays.fill(arr,-1);
         }
-        return helper(grid,grid.length-1,grid[0].length-1,dp);
+
+        return helper(grid.length-1,grid[0].length-1,dp,grid);
     }
 }
