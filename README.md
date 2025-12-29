@@ -1040,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
+| [1143-longest-common-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
@@ -1376,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1057-numbers-with-repeated-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1143-longest-common-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
