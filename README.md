@@ -1013,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0539-minimum-time-difference) |
@@ -1355,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0489-kth-smallest-instructions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0489-kth-smallest-instructions) |
 | [0494-target-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0553-optimal-division) |
