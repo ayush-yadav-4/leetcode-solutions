@@ -1048,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1250-longest-common-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1274-number-of-days-between-two-dates](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -1385,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1362-airplane-seat-assignment-probability](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
