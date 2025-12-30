@@ -1039,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-equal-rational-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1012-equal-rational-numbers) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1119-robot-bounded-in-circle) |
 | [1143-longest-common-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -1379,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1057-numbers-with-repeated-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1092-shortest-common-supersequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1170-shortest-common-supersequence) |
