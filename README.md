@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
@@ -975,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0071-simplify-path) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0055-jump-game) |
@@ -1450,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
