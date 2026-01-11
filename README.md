@@ -1110,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3684-substring-matching-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-substring-matching-pattern) |
+| [3798-largest-even-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
 | ------- |
