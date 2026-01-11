@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0830-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0860-design-circular-queue) |
@@ -1193,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0792-binary-search) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0894-random-pick-with-blacklist](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0894-random-pick-with-blacklist) |
 | [0907-koko-eating-bananas](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0910-nth-magical-number) |
