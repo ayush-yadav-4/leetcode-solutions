@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3794-reverse-string-prefix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
 | ------- |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3684-substring-matching-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-substring-matching-pattern) |
+| [3794-reverse-string-prefix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
