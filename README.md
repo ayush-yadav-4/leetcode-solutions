@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1528,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
