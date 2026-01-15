@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Prefix Sum
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Math
 |  |
