@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Prefix Sum
@@ -1340,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3344-minimize-manhattan-distances](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3344-minimize-manhattan-distances) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1534,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Divide and Conquer
 |  |
@@ -1656,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Merge Sort
 |  |
 | ------- |
