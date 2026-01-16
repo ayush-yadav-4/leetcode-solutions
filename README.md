@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Prefix Sum
@@ -1122,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3684-substring-matching-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-substring-matching-pattern) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3794-reverse-string-prefix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3798-largest-even-number) |
 ## Simulation
@@ -1537,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Divide and Conquer
 |  |
@@ -1660,6 +1663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Merge Sort
 |  |
 | ------- |
