@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -1347,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3344-minimize-manhattan-distances](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3344-minimize-manhattan-distances) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Dynamic Programming
