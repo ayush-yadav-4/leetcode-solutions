@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3739-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3739-manhattan-distances-of-all-arrangements-of-pieces) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
@@ -2086,6 +2088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Enumeration
 |  |
 | ------- |
