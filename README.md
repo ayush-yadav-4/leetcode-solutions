@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Math
@@ -1129,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3684-substring-matching-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-substring-matching-pattern) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3794-reverse-string-prefix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
