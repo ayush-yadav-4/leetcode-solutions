@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -1500,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -1666,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2722-prime-in-diagonal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
