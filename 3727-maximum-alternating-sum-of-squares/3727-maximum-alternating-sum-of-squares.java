@@ -3,7 +3,7 @@ class Solution {
     public long maxAlternatingSum(int[] nums) {
        
 
-        Long[] arr = new Long[nums.length];
+        long[] arr = new long[nums.length];
         for(int i=0;i<nums.length;i++){
             arr[i] =(long)( nums[i] * nums[i]);
         }
