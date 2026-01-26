@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3707-equal-score-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3684-substring-matching-pattern](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-substring-matching-pattern) |
+| [3707-equal-score-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
