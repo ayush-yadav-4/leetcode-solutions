@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3698-split-array-with-minimum-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3698-split-array-with-minimum-difference) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
@@ -1203,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Monotonic Stack
@@ -1322,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sorting
 |  |
