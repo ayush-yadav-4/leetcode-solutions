@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3697-compute-decimal-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3698-split-array-with-minimum-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3698-split-array-with-minimum-difference) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
@@ -1592,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3776-minimum-moves-to-balance-circular-array) |
