@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3697-compute-decimal-representation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -1392,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3344-minimize-manhattan-distances](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3344-minimize-manhattan-distances) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -1594,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
