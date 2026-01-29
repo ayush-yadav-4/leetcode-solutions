@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0927-sum-of-subsequence-widths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0927-sum-of-subsequence-widths) |
 | [0928-surface-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0928-surface-area-of-3d-shapes) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0913-random-flip-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0913-random-flip-matrix) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0940-fruit-into-baskets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0923-super-egg-drop](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0923-super-egg-drop) |
 | [0927-sum-of-subsequence-widths](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0927-sum-of-subsequence-widths) |
@@ -1633,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -2116,6 +2120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0897-prime-palindrome) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-largest-component-size-by-common-factor](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1223-graph-connectivity-with-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1223-graph-connectivity-with-threshold) |
