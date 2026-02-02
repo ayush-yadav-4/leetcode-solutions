@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3638-maximum-balanced-shipments](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3638-maximum-balanced-shipments](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Hash Table
 |  |
@@ -1233,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1902-car-fleet-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3638-maximum-balanced-shipments](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 ## Binary Search
 |  |
 | ------- |
@@ -1540,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3638-maximum-balanced-shipments](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Memoization
 |  |
@@ -1606,6 +1610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3638-maximum-balanced-shipments](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
