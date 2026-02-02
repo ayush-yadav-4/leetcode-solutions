@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3637-trionic-array-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
