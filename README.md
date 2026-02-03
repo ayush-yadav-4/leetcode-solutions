@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3637-trionic-array-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
+| [3639-minimum-time-to-activate-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3639-minimum-time-to-activate-string) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -1297,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3639-minimum-time-to-activate-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3639-minimum-time-to-activate-string) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
 |  |
