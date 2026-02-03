@@ -1023,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
