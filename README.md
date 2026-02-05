@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3606-coupon-code-validator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3639-minimum-time-to-activate-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3639-minimum-time-to-activate-string) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3548-find-the-count-of-good-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3606-coupon-code-validator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3680-count-connected-components-in-lcm-graph) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3312-number-of-changing-keys](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3312-number-of-changing-keys) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3606-coupon-code-validator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -1424,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3344-minimize-manhattan-distances](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3344-minimize-manhattan-distances) |
+| [3606-coupon-code-validator](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3731-find-missing-elements) |
