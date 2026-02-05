@@ -1183,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3312-number-of-changing-keys](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3312-number-of-changing-keys) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3612-process-string-with-special-operations-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3226-minimum-number-game) |
+| [3612-process-string-with-special-operations-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
