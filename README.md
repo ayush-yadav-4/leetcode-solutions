@@ -2432,5 +2432,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0913-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0913-cat-and-mouse) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
