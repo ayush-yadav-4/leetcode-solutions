@@ -1869,6 +1869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1918,6 +1919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -2440,6 +2442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0913-cat-and-mouse](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0913-cat-and-mouse) |
 ## Union-Find
 |  |
@@ -2447,5 +2450,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
