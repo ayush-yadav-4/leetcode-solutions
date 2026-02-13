@@ -10,7 +10,7 @@ class Solution {
     public void solve(char[][] mat) {
          Queue<Pair> q = new LinkedList<>();
          
-          int[][] ans = new int[mat.length][mat[0].length];
+          
            int[][] vis = new int[mat.length][mat[0].length];;
          int n = mat.length-1;
          
