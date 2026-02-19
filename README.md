@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3698-split-array-with-minimum-difference](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3698-split-array-with-minimum-difference) |
 | [3707-equal-score-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -1692,6 +1695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
@@ -1722,6 +1726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-partition-array-into-k-distinct-groups](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Union Find
 |  |
@@ -1829,6 +1834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2417,6 +2423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [1728-fancy-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1728-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
