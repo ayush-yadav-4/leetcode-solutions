@@ -1,31 +1,33 @@
 class Solution {
-    public int largestRectangleArea(int[] heights) {
-        Stack<Integer>st = new Stack<>();
-      
-        int ans = 0;
-
-        for(int i=0;i<heights.length;i++){
-          
-          while(!st.empty() && heights[st.peek()] > heights[i]){
-            int curr = heights[st.peek()]; st.pop();
-            int prev = (st.empty())?-1:st.peek();
-            int next = i;
-
-            ans = Math.max(ans,(curr*(next-prev-1)));
+    public int largestRectangleArea(int[] arr) {
+           
+        int[] nge = new int[arr.length];
+        int[] pge = new int[arr.length];
+         Stack<Integer> st = new Stack<>();
+   
+        for(int i=0;i<arr.length;i++){
+            while(st.size() > 0 && arr[st.peek()] > arr[i])st.pop();
+            if(st.size() == 0) pge[i] = -1;
+            else pge[i] = st.peek();
+            st.add(i);
             
-            
-          }
-          st.push(i);
         }
-         int n = heights.length;
-        while (!st.isEmpty()) {
-            int curr = st.pop();
-            int height = heights[curr];
-            int prev = (st.isEmpty()) ? -1 : st.peek();
-            int width = n - prev - 1;
 
-            ans = Math.max(ans, height * width);
+        while(st.size() > 0) st.pop();
+
+         for(int i=arr.length-1;i>=0;i--){
+            while(st.size() > 0 && arr[st.peek()] >= arr[i])st.pop();
+            if(st.size() == 0) nge[i] = arr.length;
+            else nge[i] = st.peek();
+            st.add(i);
+            
+        }
+         int ans = 0;
+        for(int i=0;i<arr.length;i++){
+           ans =  Math.max(ans,((nge[i] - pge[i] -1) * arr[i]));
         }
         return ans;
+       
+
     }
 }
