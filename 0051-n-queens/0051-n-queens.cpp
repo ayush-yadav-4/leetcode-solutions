@@ -1,69 +1,63 @@
 class Solution {
 public:
+bool isSafe(int row , int col, vector<string>& board, int n){
+ int r = row; int c = col;
+
+ while(c>=0){
+    if(board[r][c] == 'Q'){
+       return false;
+    }
+    c--;
+ }
+ r = row; c = col;
+ while(r>=0){
+    if(board[r][c] == 'Q'){
+     return false;
+ }
+ r--;
+}
+
+r = row; c = col;
+
+while(r >=0 && c >=0){
+    if(board[r][c] == 'Q'){
+     return false;
+ }
+ r--; c--;
+}
+r = row; c = col;
+while(r >=0 && c < n){
+    if(board[r][c] == 'Q'){
+     return false;
+ }
+ r--; c++;
+}
+
+return true;
+}
+void helper(int row, int col , vector<string>& board, vector<vector<string>>&ans, int n, int cnt){
+    if(row == n){
+        ans.push_back(board);
+        return;
+    }
+
+    for(int i=0;i<n;i++){
+        if(isSafe(row,i,board, n)){
+           board[row][i] = 'Q';
+           cnt = cnt+1;
+            helper(row+1,i,board,ans,n, cnt);
+            cnt = cnt-1;
+            board[row][i] = '.';
+
+        }
+    }
+
+
+}
     vector<vector<string>> solveNQueens(int n) {
-          vector<vector<string>> ans;
-          vector<string> board(n);
-
-          for(int i =0; i < n;i++){
-            for(int j =0; j < n;j++){
-             board[i].push_back('.');
-          }
-          }
-        
-        helper(ans,board,0,n);
-        return ans;
-    }
-
-    void helper( vector<vector<string>> & ans,vector<string>&board , int row,int n){
-      
-      if(row == n ){
-         ans.push_back(board);
-         return;
-      }
-
-      for(int j =0; j <n ; j++){
-         if(isSafe(board,row,j,n) ){
-           
-            board[row][j] = 'Q';
-            helper(ans,board,row+1,n);
-           
-            board[row][j] = '.';
-         }
-      }
-    }
-
-    bool isSafe(vector<string>&board , int row , int col,int n){
-      
-      for(int i =0 ; i < row ; i++){
-        if(board[i][col] == 'Q'){
-            return false;
-        }
-      }
-
-        for(int i =col ; i >= 0 ; i--){
-        if(board[row][i] == 'Q'){
-            return false;
-        }
-      }
-
-      int i = row; int j = col;
-      while(i> -1 && j > -1){
-         if(board[i][j] == 'Q'){
-            return false;
-        }
-        i--; j--;
-      }
-
-      i = row, j = col;
-        while(i> -1 && j < n){
-         if(board[i][j] == 'Q'){
-            return false;
-        }
-        i--; j++;
-      }
-
-      return true;
-
-
+         vector<vector<string>> ans;
+         vector<string> board(n,string(n,'.'));
+         helper(0,0,board,ans,n,0);
+         return ans;
     }
 };
