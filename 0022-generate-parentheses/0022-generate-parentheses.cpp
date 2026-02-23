@@ -1,20 +1,30 @@
 class Solution {
 public:
-    void helper(vector<string>&ans,int n, int occ,int cc,string s){
-       if(occ == n && cc == n){ ans.push_back(s); return;}
+void helper(int open , int close , string str , int n, vector<string>& ans){
+   if(open > n || close > open) return;
+   if(open == n && close == n){
+      ans.push_back(str);
+      return;
+   }
 
-       if(occ<n){
-        helper(ans,n,occ+1,cc,s+"(");
-       }
-       if(cc < occ){
-         helper(ans,n,occ,cc+1,s+")");
-       }
+   if(open < n){
+     str.push_back('(');
+     helper(open+1,close, str,n, ans);
+     str.pop_back();
+   }
 
-    }
+   if(close < open){
+    str.push_back(')');
+     helper(open , close+1,str,n,ans);
+     str.pop_back();
+   }
+
+
+}
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
-        string s;
-        helper(ans,n,0,0,"");
+        vector<string> ans;
+        string str;
+        helper(0,0,str,n,ans);
         return ans;
     }
 };
