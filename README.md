@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-power-of-heroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2784-power-of-heroes) |
 | [2827-greatest-common-divisor-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2827-greatest-common-divisor-traversal) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2965-find-missing-and-repeated-values](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3194-find-words-containing-character](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3194-find-words-containing-character) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2605-count-anagrams) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2965-find-missing-and-repeated-values](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3208-count-beautiful-substrings-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3212-count-the-number-of-good-partitions) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2827-greatest-common-divisor-traversal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2827-greatest-common-divisor-traversal) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [2965-find-missing-and-repeated-values](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3024-string-transformation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3024-string-transformation) |
@@ -1802,6 +1805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2662-check-knight-tour-configuration) |
 | [2722-prime-in-diagonal](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Heap (Priority Queue)
