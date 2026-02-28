@@ -1,31 +1,45 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if(s.length() == 0 || s.length() == 1) return s;
-        boolean[][]dp = new boolean[s.length()][s.length()];
-          int maxlen =1,st = 0; 
-        for(int i=0;i<s.length();i++){
-           dp[i][i] = true;
-        }
+        if(s.length() <=1) return s;
+        int low = 0, high = 0; String ans = "";
+        String str ="";
+        for(int i=1;i<s.length();i++){
+           
+           low = i ; high = i;
 
-        for(int i=0;i<s.length()-1;i++){
-            if(s.charAt(i) == s.charAt(i+1)){
-                dp[i][i+1] = true;
-                st = i;
-                maxlen = 2;
-            }
-        }
+           while(s.charAt(low) == s.charAt(high)){
+              low--;
+              high++;
 
-        for(int len = 3;len<=s.length();len++){
-            for(int i=0;i<=s.length()-len;i++){
-                int j = i + len-1;
-              if(s.charAt(i) == s.charAt(j) && dp[i+1][j-1]){
-                dp[i][j] = true;
-                st = i;
-                maxlen = len;
+              if(low == -1 || high == s.length()){
+                break;
               }
-            }
+           }
+
+            str = s.substring(low+1,high);
+           if(ans.length() < str.length()){
+             ans = str;
+           }
+
+           low = i-1 ; high = i;
+
+           while(s.charAt(low) == s.charAt(high)){
+              low--;
+              high++;
+
+              if(low == -1 || high == s.length()){
+                break;
+              }
+           }
+
+           str = s.substring(low+1,high);
+           if(ans.length() < str.length()){
+             ans = str;
+           }
+
+
         }
 
-        return s.substring(st,st+maxlen);
+        return ans;
     }
 }
