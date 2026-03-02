@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0126-word-ladder-ii) |
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0071-simplify-path) |
@@ -1407,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0088-merge-sorted-array) |
