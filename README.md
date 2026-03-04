@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0805-escape-the-ghosts) |
 | [0816-design-hashset](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0823-split-array-with-same-average](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0823-split-array-with-same-average) |
+| [0827-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0828-chalkboard-xor-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0846-hand-of-straights](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -1790,6 +1791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0798-transform-to-chessboard](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
+| [0827-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0919-projection-area-of-3d-shapes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0919-projection-area-of-3d-shapes) |
@@ -1917,6 +1919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
@@ -1971,6 +1974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -2514,6 +2518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
