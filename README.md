@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximum-score-after-binary-swaps](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+| [3862-find-the-smallest-balanced-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3862-find-the-smallest-balanced-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-equal-score-substrings](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3862-find-the-smallest-balanced-index](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
 |  |
 | ------- |
