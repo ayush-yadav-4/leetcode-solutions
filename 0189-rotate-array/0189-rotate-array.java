@@ -1,20 +1,19 @@
 
 class Solution{
-    void Rotate(int st , int end , int[] nums){
-       while(st<end){
-         int temp = nums[st];
-         nums[st] = nums[end];
-         nums[end] = temp;
-         st++;
-         end--;
-       }
-    }
+ void swap(int[] nums , int st, int end){
+   while(st<=end){
+    int a = nums[st];
+    nums[st] = nums[end];
+    nums[end] = a;
+    st++;
+    end--;
+   }
+ }
  public void rotate(int[]nums,int k){
-    if(nums.length == 1 ) return;
     k = k % nums.length;
-    Rotate(0, nums.length-k-1,nums);
-   Rotate(nums.length-k, nums.length-1, nums);
-   
-   Rotate(0, nums.length-1,nums);
+    int n = nums.length;
+    swap(nums,0,n-k-1);
+    swap(nums,n-k,nums.length-1);
+    swap(nums,0,nums.length-1);
  }
 }
