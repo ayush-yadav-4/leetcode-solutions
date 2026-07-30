@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1277-largest-multiple-of-three](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1277-largest-multiple-of-three) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1284-four-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -1350,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1307-ugly-number-iii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1307-ugly-number-iii) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
