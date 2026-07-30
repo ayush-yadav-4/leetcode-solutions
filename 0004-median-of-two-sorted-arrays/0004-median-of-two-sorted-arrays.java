@@ -1,33 +1,27 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int[] arr = new int[nums1.length + nums2.length];
-        int i=0,j=0,k=0;
-        while(i<nums1.length && j < nums2.length){
-             if(nums1[i]<nums2[j]){
-                arr[k++] = nums1[i++];
-             }
-             else{
-                arr[k++] = nums2[j++];
-             }
-        }
-
-        while(i<nums1.length){
-            arr[k++] = nums1[i++];
-        }
-         while(j<nums2.length){
-            arr[k++] = nums2[j++];
-        }
-      
-        int mid = (arr.length-1)/2;
-        double ans = 0;
-        if(arr.length%2 == 0){
-            
-            ans = (double)((arr[mid] + arr[mid+1])/2.000);
+     int[] nums = new int[nums1.length + nums2.length];
+     int st1 = 0 , st2 = 0, k=0;
+     while(st1 < nums1.length && st2 < nums2.length){
+        if(nums1[st1] <= nums2[st2]){
+            nums[k++] = nums1[st1++];
         }
         else{
-            
-            ans = (double)(arr[mid]);
+           nums[k++] = nums2[st2++];
         }
-        return ans;
+     }
+
+     while(st1 < nums1.length){
+       nums[k++] = nums1[st1++];
+     }
+     while(st2 < nums2.length){
+       nums[k++] = nums2[st2++];
+     }
+
+     if(nums.length%2 == 0){
+       return (double)(nums[nums.length/2] + nums[(nums.length/2)-1])/2;
+     }
+
+     return (double)nums[nums.length/2];
     }
 }
