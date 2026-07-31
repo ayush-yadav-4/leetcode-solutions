@@ -1,33 +1,24 @@
 class Solution {
-    int check(int[]freq){
-        int cnt = 0;
-        for(int i=0;i<freq.length;i++){
-           if(freq[i] >= 1)cnt++;
-        } 
-        return cnt;
-    }
+   
     public int totalFruit(int[] fruits) {
-        if(fruits.length == 1 || fruits.length == 2) return fruits.length;
-        // int[] freq = new int[fruits.length+1];
-        // Arrays.fill(freq,0);
-
-        Map<Integer, Integer>mp = new HashMap<>();
-        int ans = 0,st = 0, end = 0;
-        while(end < fruits.length){
-           mp.put(fruits[end], mp.getOrDefault(fruits[end],0) + 1);
-
-           while(mp.size() > 2 && st <= end){
-             mp.put(fruits[st],mp.get(fruits[st])-1);
-             if(mp.get(fruits[st]) == 0){
-                mp.remove(fruits[st]);
-             }
-             st++;
-           }
-
-           if(mp.size() <= 2) ans = Math.max(ans,end - st +1);
-           end++;
+    int ans =0, cnt=0, r=0,l=0;
+    Map<Integer, Integer>mp = new HashMap<>();
+      while(r<fruits.length){
+        mp.put(fruits[r], mp.getOrDefault(fruits[r],0)+1);
+        cnt++;
+        while(l<r && mp.size() > 2){
+          mp.put(fruits[l],mp.get(fruits[l])-1);
+          if(mp.get(fruits[l]) == 0){
+            mp.remove(fruits[l]);
+          }
+          cnt--;
+          l++;
+          
         }
+       ans = Math.max(ans, cnt);
+       r++;
+      }
 
-        return ans;
+      return ans;
     }
 }
