@@ -1,21 +1,26 @@
 class Solution {
-    void helper( Set<List<Integer>>st,List<Integer>temp,int[]nums,int idx){
-
+    void help(int idx , int[] nums,  List<List<Integer>> ans,List<Integer>temp, Set<List<Integer>> st){
         if(idx == nums.length){
-          List<Integer>copy = new ArrayList<>(temp);
-          Collections.sort(copy);
-          st.add(copy);
-          return;
+           
+            st.add(new ArrayList<>(temp));
+            return;
         }
+        if(idx >= nums.length) return;
 
         temp.add(nums[idx]);
-        helper(st,temp,nums,idx+1);
+        help(idx+1, nums,ans ,temp,st);
         temp.remove(temp.size()-1);
-        helper(st,temp,nums,idx+1);
+        help(idx+1, nums,ans ,temp,st);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Set<List<Integer>>st = new HashSet<>();
-        helper(st,new ArrayList<>(),nums,0);
-        return new ArrayList<>(st);
+        Arrays.sort(nums);
+        List<Integer>temp = new ArrayList<>();
+        List<List<Integer>>ans =  new ArrayList<>();
+        Set<List<Integer>> st = new HashSet<>();
+        help(0, nums, ans,temp,st);
+        for(List<Integer> l: st){
+         ans.add(l);
+        }
+        return ans;
     }
 }
