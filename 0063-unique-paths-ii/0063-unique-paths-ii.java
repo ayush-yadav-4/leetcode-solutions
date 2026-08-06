@@ -1,29 +1,29 @@
 class Solution {
+    int help(int m , int n , int[][] dp){
+       if(m< 0 || n < 0 || dp[m][n] == 0) return 0;
+       if(m == 0 && n == 0) return 1;
 
-    int helper(int[][] arr,int m,int n,int[][]dp){
-        if(m<0 || n < 0) return 0;
-        if(m==0 && n == 0){
-            return 1;
-        }
-        if(arr[m][n] == 1) return 0;
-        
+       if(dp[m][n] != -1) return dp[m][n];
 
-        if(dp[m][n] != -1) return dp[m][n];
-
-        int up = helper(arr,m-1,n,dp);
-        int left = helper(arr,m,n-1,dp);
-
-        return dp[m][n] = up + left;
+       return dp[m][n] = help(m-1,n,dp) + help(m,n-1,dp);
     }
-    public int uniquePathsWithObstacles(int[][] arr) {
+    public int uniquePathsWithObstacles(int[][] gird) {
+        int m =gird.length;
+        int n = gird[0].length;
+        int[][] dp = new int[m][n];
 
-        if(arr[0][0] == 1 || arr[arr.length-1][arr[0].length-1] == 1) return 0;
-        int[][]dp = new int[arr.length][arr[0].length];
-
-        for(int[] a: dp){
-            Arrays.fill(a,-1);
+        for(int[] a : dp){
+          Arrays.fill(a,-1);
         }
-        return helper(arr,arr.length-1,arr[0].length-1,dp);
+        for(int i =0;i<m;i++){
+            for(int j =0;j<n;j++){
+              if(gird[i][j] == 1){
+                dp[i][j] = 0;
+              }
+            }
+        }
+        return help(m-1,n-1,dp);
 
+        
     }
 }
