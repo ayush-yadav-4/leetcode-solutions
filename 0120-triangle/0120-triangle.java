@@ -1,37 +1,38 @@
 class Solution {
-    int helper(int i,int j,int[][] dp,List<List<Integer>> grid){
-      
-        if(i == grid.size()-1){
-            return grid.get(grid.size()-1).get(j);
+    int help(int n , int m ,  int[][] dp, List<List<Integer>> grid){
+        if(n == grid.size()-1){
+            return grid.get(n).get(m);
         }
-        if(i>grid.size()-1 || j > grid.get(i).size()-1 ) return 1_000_000_000;
-        if(dp[i][j] != -1) return dp[i][j];
-        
-         
-        int down = grid.get(i).get(j) + helper(i+1,j,dp,grid);
-        int diag = grid.get(i).get(j) + helper(i+1,j+1,dp,grid);
+        if(n>=grid.size() || m >= grid.get(n).size() ){
+            return Integer.MAX_VALUE;
+        }
+        if(dp[n][m] != -1) return dp[n][m];
 
-        return dp[i][j] = Math.min(down,diag);
+        int down = help(n+1,m,dp,grid);
+        int diag = help(n+1,m+1,dp,grid);
+        return dp[n][m] = grid.get(n).get(m) + Math.min(down, diag);
+        
+        
     }
     public int minimumTotal(List<List<Integer>> grid) {
-        int[][] dp = new int[grid.size()+1][grid.size()+1];
+       int[][] dp = new int[grid.size()][grid.get(grid.size()-1).size()];
 
-        for(int[] arr : dp){
-          Arrays.fill(arr,-1);
-        }
-        //return helper(0,0,dp,grid);
-       
-       for(int i =0;i<grid.get(grid.size()-1).size();i++){
-           dp[grid.size()-1][i] = grid.get(grid.size()-1).get(i);
+       for(int[] arr: dp){
+         Arrays.fill(arr,-1);
        }
-        for(int i = grid.size()-2;i>=0;i--){
-            for(int j = 0;j<grid.get(i).size();j++){
-               int down = grid.get(i).get(j) +dp[i+1][j];
-               int diag = grid.get(i).get(j) + dp[i+1][j+1];
 
-               dp[i][j] = Math.min(down,diag);
+       // return help(0,0,dp,grid);
+       int n = grid.size();
+       int m = grid.get(n-1).size();
+        for(int i=0;i<grid.get(n-1).size();i++){
+           dp[n-1][i] = grid.get(n-1).get(i);
+        }
+        for(int i=n-2;i>=0;i--){
+            for(int j=0;j<=i;j++){
+              dp[i][j] = grid.get(i).get(j) + Math.min(dp[i+1][j], dp[i+1][j+1]);
             }
         }
+
         return dp[0][0];
     }
 }
