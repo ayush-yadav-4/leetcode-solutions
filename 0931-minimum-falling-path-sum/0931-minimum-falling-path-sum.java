@@ -1,50 +1,51 @@
 class Solution {
 
-    int helper(int i,int j,int[][]dp,int[][]grid){
-         if(i >= grid.length || j >= grid[0].length || j<0) return 1_000_000_000;
-        if(i == grid.length-1){
-            return grid[grid.length-1][j];
-        }
-       
-         if(dp[i][j]!= -1) return dp[i][j];
-        int down = helper(i+1,j,dp,grid);
-        int diag_l = helper(i+1,j+1,dp,grid);
-        int diag_r = helper(i+1,j-1,dp,grid);
+   
+    int help(int m , int n , int[][] dp , int[][] grid){
+      if(m<0 || n<0 || m >= grid.length ||n >= grid[0].length) return Integer.MAX_VALUE;
+      if(m == 0) return grid[m][n];
 
+      if(dp[m][n] != -1) return dp[m][n];
 
-        return dp[i][j] = grid[i][j] + Math.min(down,Math.min(diag_l,diag_r));
+      int down = help(m-1,n,dp,grid);
+      int left = help(m-1,n-1,dp,grid);
+      int right = help(m-1,n+1,dp,grid);
+
+      return dp[m][n] = grid[m][n] + Math.min(down, Math.min(left,right));
     }
+
+    
     public int minFallingPathSum(int[][] grid) {
-        
-        int[][] dp = new int[grid.length+1][grid[0].length+1];
-
-        for(int[] arr : dp){
-          Arrays.fill(arr,-1);
-        }
-        // int ans = Integer.MAX_VALUE;
-        // for(int i =0;i<grid[0].length;i++){
-        //    ans = Math.min(ans, helper(0,i,dp,grid));
-        // }
-        // return ans;
-
-
-        for(int i =0;i<grid[0].length;i++){
-           dp[0][i] =grid[0][i];
+         int[][] dp = new int[grid.length][grid[0].length];
+        int ans = Integer.MAX_VALUE;        
+        int m = grid.length-1;
+        // for(int i=0;i<grid[m].length;i++){
+        //     for(int[] arr : dp){
+        //    Arrays.fill(arr,-1);
+        //  } 
+        //  ans = Math.min(ans, help(m,i,dp,grid));
+        //  }
+       //return ans;
+       int n = grid.length-1;
+       for(int i=0;i<grid[n].length;i++){
+         dp[n][i] = grid[n][i];
        }
-        for(int i = 1;i<grid.length;i++){
-            for(int j = 0;j<grid[0].length;j++){
-               int down = dp[i-1][j];
-              int diag_l = (j>0)?dp[i-1][j-1]:1_000_000_000;
-                   int diag_r = (j<grid[0].length-1)?dp[i-1][j+1]:1_000_000_000;
-
-               dp[i][j] = grid[i][j] + Math.min(down,Math.min(diag_l,diag_r));
-            }
+       for(int i=grid.length-2;i>=0;i--){
+        for(int j=0;j<grid[i].length;j++){
+            int left = Integer.MAX_VALUE;
+int down = dp[i+1][j];
+int right = Integer.MAX_VALUE;
+            if(j>0) left = dp[i+1][j-1];
+            
+            if(j< grid[i].length-1)right = dp[i+1][j+1];
+          dp[i][j] = grid[i][j] +  Math.min(down, Math.min(left,right));
         }
-      int ans = Integer.MAX_VALUE;
-        for(int i =0;i<grid[0].length;i++){
-           ans = Math.min(ans, dp[grid.length-1][i]);
-        }
-        return ans;
+       }
        
+       for(int i=0;i<grid[0].length;i++){
+         ans = Math.min(ans, dp[0][i]);
+       }
+       return ans;
+
     }
 }
