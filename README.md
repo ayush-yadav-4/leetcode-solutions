@@ -2555,4 +2555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
