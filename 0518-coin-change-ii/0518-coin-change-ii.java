@@ -1,41 +1,28 @@
 class Solution {
-    public int helper(int coins[],int idx,int target,int[][]dp){
-        if(idx<0) return 0;
-        if(idx == 0){
-            if(target%coins[idx] == 0)return 1;
-            return 0;
-        }
-        if(dp[idx][target] != -1) return dp[idx][target];
 
-        int notake = helper(coins,idx-1,target,dp);
-        int take = 0;
-        if(coins[idx]<=target){
-            take = helper(coins,idx,target-coins[idx],dp);
+    int help(int idx , int amount, int[] coins, int[][]dp){
+    if(amount == 0) return 1;
+       if(idx == coins.length){
+        if(amount == 0) return 1;
+        return 0;
+       }
 
-        }
-        return dp[idx][target] = take + notake;
+       if(dp[idx][amount] != -1) return dp[idx][amount];
+
+       int pick=0 , npick = 0;
+
+       if(coins[idx] <= amount) pick = help(idx,amount-coins[idx],coins,dp);
+       npick = help(idx+1,amount,coins,dp);
+
+       return dp[idx][amount] = pick + npick;
     }
     public int change(int amount, int[] coins) {
-       
-       
-        int[][]dp = new int[coins.length][amount+1];
-        
-         for(int i=0;i<=amount;i++){
-           dp[0][i] = (i%coins[0] == 0)?1:0;
+        //if(amount == 0) return 0;
+         int[][] dp = new int[coins.length][amount+1];
+        for(int[] a: dp){
+            Arrays.fill(a,-1);
         }
 
-        for(int i=1;i<coins.length;i++){
-            for(int j = 0;j<=amount;j++){
-              int nopick = dp[i-1][j];
-              int pick = 0;
-              if(coins[i] <= j){
-                pick = dp[i][j-coins[i]];
-              }
-              dp[i][j] = pick + nopick;
-            }
-        }
-        return dp[coins.length-1][amount];
-        // return helper(coins,coins.length-1,amount,dp);
-        
+        return help(0,amount,coins,dp);
     }
 }
