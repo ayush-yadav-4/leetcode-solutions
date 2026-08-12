@@ -18,7 +18,25 @@ class Solution {
         for(int[] a: dp){
          Arrays.fill(a,-1);
         }
-       return help(text1.length()-1,text2.length()-1,text1,text2,dp);
+      // return help(text1.length()-1,text2.length()-1,text1,text2,dp);
+       for(int idx1 = 0;idx1<text1.length();idx1++){
+         dp[idx1][0] = 0;
+       }
+       for(int idx1 = 0;idx1<text2.length();idx1++){
+         dp[0][idx1] = 0;
+       }
+       for(int i = 0;i<text1.length();i++){
+         for(int j = 0;j<text2.length();j++){
+             if(text1.charAt(i) == text2.charAt(j)){
+                dp[i+1][j+1] = 1 + dp[i][j];
+             }
+
+             else dp[i+1][j+1] = Math.max(dp[i][j+1], dp[i+1][j]);
+         } 
+       }
+
+       if(dp[text1.length()][text2.length()] == -1)return 0;
+       return dp[text1.length()][text2.length()];
       
     }
 }
