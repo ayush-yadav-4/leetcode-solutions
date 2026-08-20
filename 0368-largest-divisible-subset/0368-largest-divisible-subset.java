@@ -1,33 +1,35 @@
 class Solution {
+
+   
     public List<Integer> largestDivisibleSubset(int[] nums) {
-        int n = nums.length;
-        int[] dp = new int[n];
-        Arrays.fill(dp, 1);
-        Arrays.sort(nums);
-        
-        int maxSize = 1, maxIndex = 0;
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (nums[i] % nums[j] == 0) {
-                    dp[i] = Math.max(dp[i], dp[j] + 1);
-                    if (dp[i] > maxSize) {
-                        maxSize = dp[i];
-                        maxIndex = i;
-                    }
-                }
-            }
+         int[] dp = new int[nums.length];
+          int[] hash = new int[nums.length];
+         Arrays.fill(dp,1);
+          Arrays.fill(hash,-1);
+          int maxi =0;
+         Arrays.sort(nums);
+        for(int i=1;i<nums.length;i++){
+          for(int j = 0;j<i;j++){
+             if(nums[i]%nums[j]==0 && dp[i] < (dp[j] + 1)){
+                dp[i] = dp[j] + 1;
+                hash[i] = j;
+                maxi = Math.max(maxi, dp[i]);
+             }
+          }
         }
-        
-        List<Integer> result = new ArrayList<>();
-        int num = nums[maxIndex];
-        for (int i = maxIndex; i >= 0; i--) {
-            if (num % nums[i] == 0 && dp[i] == maxSize) {
-                result.add(nums[i]);
-                num = nums[i];
-                maxSize--;
+        List<Integer>ans = new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+           if(maxi == dp[i]){
+            int idx = i;
+            while(idx>=0){
+                ans.add(nums[idx]);
+                idx = hash[idx];
             }
+            break;
+           }
         }
-        
-        return result;
+        if(ans.size() == 0)ans.add(nums[0]);
+        Collections.sort(ans);
+        return ans;
     }
 }
