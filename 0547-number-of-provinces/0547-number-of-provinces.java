@@ -56,21 +56,29 @@ class Disjoint {
     }
     public int findCircleNum(int[][] mat) {
         int cnt = 0;
-        Disjoint ds = new Disjoint(mat.length);
+        int ans = 0;
+        boolean[] vis = new boolean[mat.length];
         for(int i=0;i<mat.length;i++){
-            for(int j =0;j<mat[0].length;j++){
-              if(mat[i][j] == 1){
-                ds.unionByRank(i,j);
-              }
-            }
-        }
-
-        for(int i=0;i<mat.length;i++){
-          if(ds.parent.get(i) == i){
-            cnt++;
+          if(vis[i] == false){
+            DFS(mat,i,vis);
+            ans++;
           }
         }
-        return cnt;
+        // Disjoint ds = new Disjoint(mat.length);
+        // for(int i=0;i<mat.length;i++){
+        //     for(int j =0;j<mat[0].length;j++){
+        //       if(mat[i][j] == 1){
+        //         ds.unionByRank(i,j);
+        //       }
+        //     }
+        // }
+
+        // for(int i=0;i<mat.length;i++){
+        //   if(ds.parent.get(i) == i){
+        //     cnt++;
+        //   }
+        // }
+        return ans;
        
     }
 }
