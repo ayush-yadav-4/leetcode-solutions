@@ -2592,4 +2592,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
