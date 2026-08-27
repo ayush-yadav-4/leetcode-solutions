@@ -9,25 +9,24 @@
  */
 class Solution {
     TreeNode ans = null;
-    int find(TreeNode root, TreeNode p, TreeNode q){
-      
-     if(root == null) return 0;
-     int left = find(root.left, p , q);
-     int right = find(root.right, p , q);
-     int self = 0;
-     if(root.val == p.val || root.val == q.val){
-        self = 1;
-     }
-     int total = self + left + right;
-     if(total == 2 && ans == null) ans = root;
-     return total;
+    TreeNode find(TreeNode root, TreeNode p , TreeNode q){
+       if(root == null) return null;
 
+       if(root.val == p.val || root.val == q.val) return root;
+       TreeNode left = find(root.left, p, q);
+       TreeNode right = find(root.right, p, q);
+
+       if(left == null) return right;
+       else if(right == null) return left;
+
+
+       else return root;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root == null) return null;
         if(root.left == null && root.right == null) return root;
 
-        find(root, p , q);
-        return ans;
+        return find(root, p , q);
+        //return ans;
     }
 }
