@@ -15,26 +15,23 @@
  */
 class Solution {
     boolean ans = false;
-    void helper(TreeNode root, int sum, int k){
-        if(root == null) return;
+    void help(TreeNode root, int target){
+        if(root == null) return ;
 
-         sum += root.val;
+        target -= root.val;
         if(root.left == null && root.right == null){
-            if(sum == k){
-                ans = true;
-            }
+            if(target == 0)ans = true;
             return;
         }
-        
-         helper(root.left, sum , k);
-         helper(root.right, sum , k);
+        help(root.left,target);
+        help(root.right, target);
         
         
        
     }
     public boolean hasPathSum(TreeNode root, int targetSum) {
         if(root == null) return false;
-        helper(root, 0,targetSum);
+        help(root,targetSum);
         return ans;
     }
 }
