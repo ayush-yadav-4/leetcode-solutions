@@ -1,34 +1,29 @@
 class Solution {
-    int check(int[] freq){
-        int cnt = 0;
-     for(int i=0;i<freq.length;i++){
-       if(freq[i] > 0)cnt++;
-     }
-
-     return cnt;
-    }
+   
     public int characterReplacement(String s, int k) {
-        int[] hash = new int[26];
+       
+       int r = 0, l = 0, ans = 0, maxf = 0;
+       int[] hash = new int[26];
+       while(r<s.length()){
+          hash[s.charAt(r) - 'A']++;
+          maxf = Math.max(maxf,hash[s.charAt(r) - 'A']);
 
-        Arrays.fill(hash , 0);
-        int st = 0,end = 0, ans = 0,maxfreq = 0;
-        while(end < s.length()){
-            hash[s.charAt(end) - 'A']++;
-            maxfreq = Math.max(maxfreq,hash[s.charAt(end) - 'A']);
-            int len = end - st + 1;
-
-            while((len - maxfreq) > k && st<= end){
-              hash[s.charAt(st) - 'A']--;
-              st++;
-              maxfreq = Math.max(maxfreq,hash[s.charAt(end) - 'A']);
-             len = end - st + 1;
+          while(((r-l+1) - maxf) > k){
+            hash[s.charAt(l) - 'A']--;
+            maxf = 0;
+            for(int i=0;i<=25;i++){
+               maxf = Math.max(maxf,hash[i]);
             }
+            l++;
+          }
+         if(((r-l+1) - maxf) <= k){
+            ans = Math.max(ans,r-l+1 );
+         }
+         r++;
 
-            ans  = Math.max(ans, end - st +1);
-            end++;
 
-        }
+       }
 
-        return ans;
+       return ans;
     }
 }
