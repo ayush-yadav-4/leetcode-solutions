@@ -9,23 +9,22 @@ class Solution {
     }
     public void nextPermutation(int[] nums) {
         
-        int i = nums.length-2;
-        int n = nums.length;
-        int j = 0;
+        int i = nums.length - 2;
+        int j = nums.length - 1;
+
         while(i>=0 && nums[i] >= nums[i+1]){
-          i--;
+            i--;
         }
+        
         if(i>=0){
-              j = n-1;
-             while(j>= 0 && nums[j] <= nums[i]){
-               j--;
-             }
-             int temp = nums[i];
-             nums[i] = nums[j];
-             nums[j] = temp;
+            while(j>=0 && nums[j]<=nums[i]){
+              j--;
+            } 
+            int temp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = temp; 
         }
 
-        reverse(i+1,n-1,nums);
-        return;
+        reverse(i+1,nums.length - 1, nums);
     }
 }
