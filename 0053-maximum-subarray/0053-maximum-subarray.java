@@ -3,13 +3,11 @@ class Solution {
         int sum =Integer.MIN_VALUE; int ans = Integer.MIN_VALUE;
        
        for(int i=0;i<nums.length;i++){
-          if(sum < 0){
+           if(sum < 0){
             sum = nums[i];
-          }
-          else{
-            sum += nums[i];
-          }
-          ans = Math.max(ans,sum);
+           }else sum += nums[i];
+
+           ans = Math.max(sum , ans);
        }
        return ans;
     }
