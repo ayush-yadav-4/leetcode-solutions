@@ -3,13 +3,18 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
          int cnt = 0, idx = 0;
-        for(int i=0;i<g.length;i++){
-           while(idx < s.length && g[i]>s[idx])idx++;
-           
-          
-           if(idx == s.length)break;
-            if(g[i]<=s[idx]){cnt++; idx++;}
+        int child = 0;
+        int cookie = 0;
+
+        while (child < g.length && cookie < s.length) {
+
+            if (s[cookie] >= g[child]) {
+                child++;
+            }
+
+            cookie++;
         }
-        return cnt;
+
+        return child;
     }
 }
