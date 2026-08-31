@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
 | [1791-richest-customer-wealth](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1808-stone-game-vii](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1808-stone-game-vii) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-find-the-highest-altitude](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1875-tree-of-coprimes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1875-tree-of-coprimes) |
@@ -1714,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1788-stone-game-vi](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1788-stone-game-vi) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1861-building-boxes](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1861-building-boxes) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
