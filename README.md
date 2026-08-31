@@ -1023,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2083-three-divisors) |
 | [2105-the-number-of-good-subsets](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2105-the-number-of-good-subsets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2156-stone-game-ix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2156-stone-game-ix) |
@@ -1719,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2039-sum-game) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2156-stone-game-ix](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2156-stone-game-ix) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayush-yadav-4/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
